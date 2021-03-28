@@ -1,0 +1,364 @@
+date_collected,ID,eggs,total_eggs,pop
+2020-02-17,93,1,1,North Key Largo
+2020-02-17,393,1,29,Plantation Key
+2020-02-17,389,3,57,Plantation Key
+2020-02-17,428,3,148,North Key Largo
+2020-02-17,41,6,255,Homestead
+2020-02-17,407,8,72,Key Largo
+2020-02-17,321,9,9,North Key Largo
+2020-02-17,430,9,9,North Key Largo
+2020-02-17,188,14,148,Leesburg
+2020-02-17,112,15,241,Key Largo
+2020-02-17,132,17,88,North Key Largo
+2020-02-17,148,18,18,North Key Largo
+2020-02-17,29,20,67,North Key Largo
+2020-02-17,5,21,209,Plantation Key
+2020-02-17,327,22,225,North Key Largo
+2020-02-17,405,22,68,Plantation Key
+2020-02-17,420,25,211,North Key Largo
+2020-02-17,126,31,31,North Key Largo
+2020-02-17,387,31,290,Plantation Key
+2020-02-17,75,48,48,Leesburg
+2020-02-17,337,52,52,North Key Largo
+2020-02-17,97,55,249,North Key Largo
+2020-02-17,13,59,296,Key Largo
+2020-02-18,16,1,1,Key Largo
+2020-02-18,195,1,1,Gainesville
+2020-02-18,111,4,171,Key Largo
+2020-02-18,390,5,133,Plantation Key
+2020-02-18,135,6,225,North Key Largo
+2020-02-18,234,7,7,North Key Largo
+2020-02-18,8,10,92,Plantation Key
+2020-02-18,227,11,318,North Key Largo
+2020-02-18,330,11,323,North Key Largo
+2020-02-18,221,14,138,North Key Largo
+2020-02-18,244,14,100,North Key Largo
+2020-02-18,340,14,14,North Key Largo
+2020-02-18,141,15,41,North Key Largo
+2020-02-18,222,15,330,North Key Largo
+2020-02-18,346,16,75,North Key Largo
+2020-02-18,328,21,138,North Key Largo
+2020-02-18,292,22,22,Gainesville
+2020-02-18,374,22,22,Lake Placid
+2020-02-18,187,25,196,Leesburg
+2020-02-18,217,25,81,Key Largo
+2020-02-18,211,26,156,Key Largo
+2020-02-18,336,26,26,North Key Largo
+2020-02-18,360,29,256,North Key Largo
+2020-02-18,133,30,208,North Key Largo
+2020-02-18,229,31,347,North Key Largo
+2020-02-18,101,37,130,Plantation Key
+2020-02-18,199,38,38,Gainesville
+2020-02-18,30,40,278,North Key Largo
+2020-02-18,314,44,92,Key Largo
+2020-02-18,302,45,45,Plantation Key
+2020-02-18,241,53,97,North Key Largo
+2020-02-18,149,55,72,North Key Largo
+2020-02-18,229,69,347,North Key Largo
+2020-02-19,472,1,1,North Key Largo
+2020-02-19,482,1,34,North Key Largo
+2020-02-19,447,2,2,
+2020-02-19,451,2,28,North Key Largo
+2020-02-19,497,3,3,North Key Largo
+2020-02-19,529,3,3,Key Largo
+2020-02-19,538,3,3,Leesburg
+2020-02-19,516,5,5,Key Largo
+2020-02-19,520,5,14,Key Largo
+2020-02-19,479,12,12,North Key Largo
+2020-02-19,462,16,49,North Key Largo
+2020-02-19,528,17,23,Key Largo
+2020-02-19,548,17,17,Plantation Key
+2020-02-19,106,18,18,Plantation Key
+2020-02-19,523,18,18,Key Largo
+2020-02-19,219,20,30,Key Largo
+2020-02-19,545,22,73,Plantation Key
+2020-02-19,552,23,64,Plantation Key
+2020-02-19,508,26,90,Key Largo
+2020-02-19,549,28,28,Plantation Key
+2020-02-19,465,29,89,North Key Largo
+2020-02-19,526,31,80,Key Largo
+2020-02-19,329,34,221,North Key Largo
+2020-02-19,515,39,96,Key Largo
+2020-02-19,553,39,121,North Key Largo
+2020-02-19,509,41,188,Key Largo
+2020-02-19,511,42,42,Key Largo
+2020-02-19,455,46,110,North Key Largo
+2020-02-19,494,54,111,North Key Largo
+2020-02-20,401,4,30,Plantation Key
+2020-02-20,326,15,147,North Key Largo
+2020-02-20,227,35,318,North Key Largo
+2020-02-20,115,106,226,Key Largo
+2020-02-25,527,4,4,Key Largo
+2020-02-25,480,6,6,North Key Largo
+2020-02-25,29,7,67,North Key Largo
+2020-02-25,140,7,46,North Key Largo
+2020-02-25,403,8,8,Plantation Key
+2020-02-25,520,9,14,Key Largo
+2020-02-25,219,10,30,Key Largo
+2020-02-25,136,15,117,North Key Largo
+2020-02-25,149,17,72,North Key Largo
+2020-02-25,451,19,28,North Key Largo
+2020-02-25,37,20,53,North Key Largo
+2020-02-25,326,20,147,North Key Largo
+2020-02-25,482,23,34,North Key Largo
+2020-02-25,141,26,41,North Key Largo
+2020-02-25,147,27,56,North Key Largo
+2020-02-25,345,29,63,North Key Largo
+2020-02-25,390,32,133,Plantation Key
+2020-02-25,318,33,91,Key Largo
+2020-02-25,462,33,49,North Key Largo
+2020-02-25,31,35,114,North Key Largo
+2020-02-25,133,36,208,North Key Largo
+2020-02-25,132,38,88,North Key Largo
+2020-02-25,101,40,130,Plantation Key
+2020-02-25,115,40,226,Key Largo
+2020-02-25,221,40,138,North Key Largo
+2020-02-25,91,42,114,North Key Largo
+2020-02-25,515,43,96,Key Largo
+2020-02-25,241,44,97,North Key Largo
+2020-02-25,429,45,124,North Key Largo
+2020-02-25,405,46,68,Plantation Key
+2020-02-25,553,46,121,North Key Largo
+2020-02-25,526,49,80,Key Largo
+2020-02-25,217,50,81,Key Largo
+2020-02-25,508,50,90,Key Largo
+2020-02-25,455,51,110,North Key Largo
+2020-02-25,111,52,171,Key Largo
+2020-02-25,8,53,92,Plantation Key
+2020-02-25,389,54,57,Plantation Key
+2020-02-25,494,57,111,North Key Largo
+2020-02-25,465,60,89,North Key Largo
+2020-02-25,490,62,84,North Key Largo
+2020-02-25,360,63,256,North Key Largo
+2020-02-25,27,67,158,North Key Largo
+2020-02-25,135,89,225,North Key Largo
+2020-02-25,227,93,318,North Key Largo
+2020-02-25,229,95,347,North Key Largo
+2020-02-25,387,104,290,Plantation Key
+2020-02-25,330,109,323,North Key Largo
+2020-02-25,112,121,241,Key Largo
+2020-02-26,504,2,9,Homestead
+2020-02-26,63,6,144,Lake Wales
+2020-02-26,545,6,73,Plantation Key
+2020-02-26,43,8,54,Homestead
+2020-02-26,535,8,30,Key Largo
+2020-02-26,188,9,148,Leesburg
+2020-02-26,41,12,255,Homestead
+2020-02-26,155,12,38,Homestead
+2020-02-26,233,12,23,North Key Largo
+2020-02-26,5,13,209,Plantation Key
+2020-02-26,339,15,49,North Key Largo
+2020-02-26,164,17,61,Lake Placid
+2020-02-26,401,17,30,Plantation Key
+2020-02-26,97,19,249,North Key Largo
+2020-02-26,375,20,88,Lake Wales
+2020-02-26,237,23,59,North Key Largo
+2020-02-26,59,24,56,Lake Placid
+2020-02-26,151,27,44,Homestead
+2020-02-26,459,29,50,North Key Largo
+2020-02-26,543,32,54,Plantation Key
+2020-02-26,314,33,92,Key Largo
+2020-02-26,269,36,103,Lake Placid
+2020-02-26,254,38,82,Homestead
+2020-02-26,552,38,64,Plantation Key
+2020-02-26,176,39,75,Lake Wales
+2020-02-26,328,40,138,North Key Largo
+2020-02-26,407,42,72,Key Largo
+2020-02-26,502,43,73,Homestead
+2020-02-26,493,45,45,North Key Largo
+2020-02-26,211,47,156,Key Largo
+2020-02-26,329,59,221,North Key Largo
+2020-02-26,346,59,75,North Key Largo
+2020-02-26,428,65,148,North Key Largo
+2020-02-26,327,67,225,North Key Largo
+2020-02-26,244,68,100,North Key Largo
+2020-02-26,30,76,278,North Key Largo
+2020-02-26,156,83,153,Homestead
+2020-02-26,187,90,196,Leesburg
+2020-02-26,246,90,155,North Key Largo
+2020-02-26,509,101,188,Key Largo
+2020-02-26,420,106,211,North Key Largo
+2020-02-26,222,123,330,North Key Largo
+2020-02-28,451,7,28,North Key Largo
+2020-02-28,482,10,34,North Key Largo
+2020-02-28,455,13,110,North Key Largo
+2020-02-28,508,14,90,Key Largo
+2020-02-28,515,14,96,Key Largo
+2020-02-28,490,22,84,North Key Largo
+2020-02-28,553,36,121,North Key Largo
+2020-03-02,429,40,124,North Key Largo
+2020-03-02,233,10,23,North Key Largo
+2020-03-02,13,15,296,Key Largo
+2020-03-02,92,3,9,North Key Largo
+2020-03-02,328,25,138,North Key Largo
+2020-03-02,29,15,67,North Key Largo
+2020-03-02,187,59,196,Leesburg
+2020-03-02,37,21,53,North Key Largo
+2020-03-02,387,77,290,Plantation Key
+2020-03-02,136,30,117,North Key Largo
+2020-03-02,155,15,38,Homestead
+2020-03-02,420,28,211,North Key Largo
+2020-03-02,428,21,148,North Key Largo
+2020-03-02,407,20,72,Key Largo
+2020-03-02,401,5,30,Plantation Key
+2020-03-02,329,52,221,North Key Largo
+2020-03-02,319,59,70,Key Largo
+2020-03-02,339,14,49,North Key Largo
+2020-03-02,375,36,88,Lake Wales
+2020-03-02,393,26,29,Plantation Key
+2020-03-02,385,26,42,Plantation Key
+2020-03-02,327,59,225,North Key Largo
+2020-03-02,164,22,61,Lake Placid
+2020-03-02,112,58,241,Key Largo
+2020-03-02,97,61,249,North Key Largo
+2020-03-02,5,57,209,Plantation Key
+2020-03-02,130,5,7,North Key Largo
+2020-03-02,132,14,88,North Key Largo
+2020-03-02,59,28,56,Lake Placid
+2020-03-02,140,16,46,North Key Largo
+2020-03-02,41,56,255,Homestead
+2020-03-02,156,56,153,Homestead
+2020-03-02,188,32,148,Leesburg
+2020-03-02,63,63,144,Lake Wales
+2020-03-02,53,22,22,Lake Placid
+2020-03-02,47,1,53,Homestead
+2020-03-02,111,72,171,Key Largo
+2020-03-02,43,24,54,Homestead
+2020-03-02,91,33,114,North Key Largo
+2020-03-02,27,60,158,North Key Largo
+2020-03-02,31,33,114,North Key Largo
+2020-03-02,30,67,278,North Key Largo
+2020-03-02,54,43,89,Lake Placid
+2020-03-02,96,5,5,North Key Largo
+2020-03-02,12,161,329,Key Largo
+2020-03-02,8,29,92,Plantation Key
+2020-03-02,211,4,156,Key Largo
+2020-03-02,253,30,34,Homestead
+2020-03-02,271,24,34,Lake Wales
+2020-03-02,217,3,81,Key Largo
+2020-03-02,269,16,103,Lake Placid
+2020-03-02,221,37,138,North Key Largo
+2020-03-02,227,85,318,North Key Largo
+2020-03-02,229,78,347,North Key Largo
+2020-03-02,237,15,59,North Key Largo
+2020-03-02,314,14,92,Key Largo
+2020-03-02,326,27,147,North Key Largo
+2020-03-02,334,4,4,North Key Largo
+2020-03-02,330,113,323,North Key Largo
+2020-03-02,318,28,91,Key Largo
+2020-03-02,390,31,133,Plantation Key
+2020-03-02,360,82,256,North Key Largo
+2020-03-02,222,99,330,North Key Largo
+2020-03-02,254,13,82,Homestead
+2020-03-02,244,18,100,North Key Largo
+2020-03-02,214,32,36,Key Largo
+2020-03-02,246,47,155,North Key Largo
+2020-03-02,176,28,75,Lake Wales
+2020-03-02,151,12,44,Homestead
+2020-03-02,147,7,56,North Key Largo
+2020-03-02,133,57,208,North Key Largo
+2020-03-02,161,7,18,Lake Placid
+2020-03-02,101,26,130,Plantation Key
+2020-03-02,115,77,226,Key Largo
+2020-03-02,135,60,225,North Key Largo
+2020-03-10,31,46,114,North Key Largo
+2020-03-10,214,4,36,Key Largo
+2020-03-10,130,2,7,North Key Largo
+2020-03-10,253,4,34,Homestead
+2020-03-10,269,51,103,Lake Placid
+2020-03-10,222,93,330,North Key Largo
+2020-03-10,5,39,209,Plantation Key
+2020-03-10,428,59,148,North Key Largo
+2020-03-10,390,65,133,Plantation Key
+2020-03-10,211,79,156,Key Largo
+2020-03-10,20,55,55,Key Largo
+2020-03-10,319,11,70,Key Largo
+2020-03-10,360,82,256,North Key Largo
+2020-03-10,188,42,148,Leesburg
+2020-03-10,330,90,323,North Key Largo
+2020-03-10,339,20,49,North Key Largo
+2020-03-10,7,8,8,Plantation Key
+2020-03-10,147,22,56,North Key Largo
+2020-03-10,101,27,130,Plantation Key
+2020-03-10,221,47,138,North Key Largo
+2020-03-10,63,75,144,Lake Wales
+2020-03-10,135,70,225,North Key Largo
+2020-03-10,552,3,64,Plantation Key
+2020-03-10,543,22,54,Plantation Key
+2020-03-10,69,19,19,Lake Wales
+2020-03-10,535,22,30,Key Largo
+2020-03-10,528,6,23,Key Largo
+2020-03-10,27,31,158,North Key Largo
+2020-03-10,91,39,114,North Key Largo
+2020-03-10,47,52,53,Homestead
+2020-03-10,13,60,296,Key Largo
+2020-03-10,29,25,67,North Key Largo
+2020-03-10,37,12,53,North Key Largo
+2020-03-10,438,7,7,North Key Largo
+2020-03-10,97,80,249,North Key Largo
+2020-03-10,459,21,50,North Key Largo
+2020-03-10,161,11,18,Lake Placid
+2020-03-10,151,5,44,Homestead
+2020-03-10,140,23,46,North Key Largo
+2020-03-10,112,47,241,Key Largo
+2020-03-10,176,8,75,Lake Wales
+2020-03-10,41,70,255,Homestead
+2020-03-10,318,30,91,Key Largo
+2020-03-10,509,46,188,Key Largo
+2020-03-10,504,7,9,Homestead
+2020-03-10,43,22,54,Homestead
+2020-03-10,545,45,73,Plantation Key
+2020-03-10,502,30,73,Homestead
+2020-03-10,227,94,318,North Key Largo
+2020-03-10,237,21,59,North Key Largo
+2020-03-10,385,16,42,Plantation Key
+2020-03-10,92,6,9,North Key Largo
+2020-03-10,30,95,278,North Key Largo
+2020-03-10,254,31,82,Homestead
+2020-03-10,155,11,38,Homestead
+2020-03-10,26,33,33,North Key Largo
+2020-03-10,115,3,226,Key Largo
+2020-03-10,420,52,211,North Key Largo
+2020-03-10,342,1,1,North Key Largo
+2020-03-10,116,4,4,Key Largo
+2020-03-10,393,2,29,Plantation Key
+2020-03-10,179,3,3,Lake Wales
+2020-03-10,48,2,2,Homestead
+2020-03-10,187,22,196,Leesburg
+2020-03-10,54,14,89,Lake Placid
+2020-03-10,332,4,4,North Key Largo
+2020-03-10,217,3,81,Key Largo
+2020-03-10,233,1,23,North Key Largo
+2020-03-10,401,4,30,Plantation Key
+2020-03-10,246,18,155,North Key Largo
+2020-03-10,156,14,153,Homestead
+2020-03-10,59,4,56,Lake Placid
+2020-03-10,314,1,92,Key Largo
+2020-03-10,407,2,72,Key Largo
+2020-03-10,271,10,34,Lake Wales
+2020-03-10,345,34,63,North Key Largo
+2020-03-10,251,2,2,Homestead
+2020-03-10,42,1,1,Homestead
+2020-03-10,12,168,329,Key Largo
+2020-03-10,229,74,347,North Key Largo
+2020-03-10,164,22,61,Lake Placid
+2020-03-10,308,2,2,Plantation Key
+2020-03-10,328,52,138,North Key Largo
+2020-03-10,329,76,221,North Key Largo
+2020-03-10,133,85,208,North Key Largo
+2020-03-10,132,19,88,North Key Largo
+2020-03-10,136,72,117,North Key Largo
+2020-03-10,326,85,147,North Key Largo
+2020-03-10,375,32,88,Lake Wales
+2020-03-10,387,78,290,Plantation Key
+2020-03-10,429,39,124,North Key Largo
+2020-03-10,424,39,39,North Key Largo
+2020-03-10,327,77,225,North Key Largo
+2020-03-10,111,43,171,Key Largo
+2020-02-24,188,51,148,Leesburg
+2020-02-24,97,34,249,North Key Largo
+2020-02-24,5,79,209,Plantation Key
+2020-02-24,41,111,255,Homestead
+2020-02-24,109,7,7,Plantation Key
+2020-02-24,13,162,296,Key Largo
+2020-02-24,54,32,89,Lake Placid

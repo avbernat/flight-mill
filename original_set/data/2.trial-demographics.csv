@@ -1,0 +1,615 @@
+ID,set_number,chamber,test_date,time_start,time_end,duration_check,sex,population,county,site,host_plant,flew,flight_type,NOTES,mass,EWM,trial_type,latitude,longitude
+435,1,A-2,02.17.2020,8:15:00,11:35:00,12000.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.034,N,T1,25.2734885,-80.3040957
+143,1,A-3,02.17.2020,8:15:00,08:45:00,1800.0,M,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.032,N,T1,25.2275238,-80.3283788
+338,1,A-4,02.17.2020,8:15:00,09:15:00,3600.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,C,,0.038,N,T1,25.2565615,-80.3108042
+267,1,B-2,02.17.2020,8:15:00,19:56:05,42065.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.040,N,T1,27.298631,-81.36615
+202,1,B-3,02.17.2020,8:15:00,11:26:00,11460.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,C,,0.037,N,T1,24.9735748,-80.5539224
+374,1,B-4,02.17.2020,8:15:00,08:45:00,1800.0,F,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.078,Y,T1,27.298631,-81.36615
+275,1,A-3,02.17.2020,8:45:00,17:10:00,30300.0,M,Lake Wales,Polk,Polk Ave,K.elegans,Y,C,,0.030,N,T1,27.8967403,-81.5804654
+63,1,B-1,02.17.2020,8:45:00,09:15:00,1800.0,F,Lake Wales,Polk,Polk Ave,K.elegans,Y,C,,0.069,N,T1,27.8967403,-81.5804654
+252,1,B-4,02.17.2020,8:45:00,09:15:00,1800.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.038,N,T1,25.491362,-80.485821
+242,1,A-4,02.17.2020,9:15:00,09:55:00,2400.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,C,,0.033,N,T1,25.2275238,-80.3283788
+239,1,B-4,02.17.2020,9:15:00,09:50:00,2100.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,,0.033,N,T1,25.1755702,-80.36780089
+62,1,B-1,02.17.2020,9:18:00,21:26:24,43704.0,M,Lake Wales,Polk,Polk Ave,K.elegans,Y,C,SENSOR: sensor readings very small drops ,0.033,N,T1,27.8967403,-81.5804654
+21,1,B-4,02.17.2020,9:55:00,10:27:00,1920.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.034,N,T1,25.2734885,-80.3040957
+213,1,A-4,02.17.2020,9:55:00,10:27:00,1920.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.044,N,T1,25.1000151,-80.437522
+74,1,A-4,02.17.2020,10:28:00,11:01:00,1980.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,B,,0.033,N,T1,28.7963435,-81.8778849
+381,1,B-4,02.17.2020,10:29:00,11:01:00,1920.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.033,N,T1,29.66200224,-82.347313
+138,1,A-4,02.17.2020,11:02:00,11:35:00,1980.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,,0.048,N,T1,25.1755702,-80.36780089
+354,1,B-4,02.17.2020,11:04:00,12:12:00,4080.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.027,N,T1,25.1820931,-80.3631938
+427,1,A-2,02.17.2020,11:37:00,13:02:00,5100.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,C,,0.024,N,T1,25.19515,-80.345916
+153,1,A-4,02.17.2020,11:39:00,12:11:00,1920.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.028,N,T1,25.491362,-80.485821
+203,1,B-3,02.17.2020,11:40:00,12:27:00,2820.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,BC,DATA COL: blew on it by accident at 12:27; taken down at 12:41,0.044,N,T1,24.9735748,-80.5539224
+179,1,A-4,02.17.2020,12:13:00,12:45:00,1920.0,F,Lake Wales,Polk,Polk Ave,K.elegans,N,,,0.053,N,T1,27.8967403,-81.5804654
+23,1,B-4,02.17.2020,12:14:00,12:45:00,1860.0,M,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.034,N,T1,25.2734885,-80.3040957
+92,1,A-4,02.17.2020,12:48:00,13:22:00,2040.0,F,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,Y,B,,0.084,N,T1,25.286747,-80.290592
+223,1,B-3,02.17.2020,12:49:00,17:15:00,15960.0,F,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.031,N,T1,25.2734885,-80.3040957
+189,1,B-4,02.17.2020,12:50:00,13:22:00,1920.0,F,Leesburg,Lake,Mount & 8th,K.elegans,Y,B,,0.041,N,T1,28.7963435,-81.8778849
+426,1,A-2,02.17.2020,13:23:00,13:59:00,2160.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.043,N,T1,25.19515,-80.345916
+208,1,A-4,02.17.2020,13:25:00,13:59:00,2040.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.040,N,T1,24.96424,-80.5673321
+268,1,B-4,02.17.2020,13:27:00,18:43:18,18978.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.033,N,T1,27.298631,-81.36615
+423,1,A-2,02.17.2020,14:00:00,14:31:00,1860.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.026,N,T1,25.1820931,-80.3631938
+133,1,A-4,02.17.2020,14:00:00,14:31:00,1860.0,F,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.080,Y,T1,25.2734885,-80.3040957
+114,1,A-2,02.17.2020,14:31:00,15:06:00,2100.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,B,,0.043,N,T1,25.1000151,-80.437522
+199,1,A-4,02.17.2020,14:32:00,15:06:00,2040.0,F,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.045,Y,T1,29.66200224,-82.347313
+37,1,A-2,02.17.2020,15:07:00,15:38:00,1860.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,,0.066,N,T1,25.1755702,-80.36780089
+356,1,A-4,02.17.2020,15:08:00,15:38:00,1800.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.038,N,T1,25.1820931,-80.3631938
+318,1,A-2,02.17.2020,15:39:00,17:34:00,6900.0,F,Key Largo,Key Largo,JP,C. corindum,Y,C,,0.039,N,T1,25.1284578,-80.4080913
+36,1,A-4,02.17.2020,15:40:00,16:11:00,1860.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,B,,0.051,N,T1,25.1755702,-80.36780089
+144,2,A-2,02.18.2020,8:03:00,15:56:47,28427.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,C,,0.033,N,T1,25.2275238,-80.3283788
+100,2,A-3,02.18.2020,8:04:00,08:38:00,2040.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,B,,0.047,N,T1,25.2275238,-80.3283788
+130,2,A-4,02.18.2020,8:05:00,15:48:00,27780.0,F,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,C,,0.062,N,T1,25.2565615,-80.3108042
+15,2,B-2,02.18.2020,8:06:00,08:38:00,1920.0,M,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.042,N,T1,25.1284578,-80.4080913
+219,2,B-3,02.18.2020,8:06:00,08:38:00,1920.0,F,Key Largo,Key Largo,JP,C. corindum,N,,,0.049,Y,T1,25.1284578,-80.4080913
+264,2,B-4,02.18.2020,8:07:00,15:48:00,27660.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.032,N,T1,27.298631,-81.36615
+4,2,A-3,02.18.2020,8:40:00,09:16:00,2160.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,,,0.035,N,T1,24.9735748,-80.5539224
+32,2,B-1,02.18.2020,8:42:00,09:16:00,2040.0,F,North Key Largo,North Key Largo,Carysfort,C. corindum,N,,,0.064,N,T1,25.2565615,-80.3108042
+329,2,B-2,02.18.2020,8:42:00,09:16:00,2040.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.078,Y,T1,25.2734885,-80.3040957
+147,2,B-3,02.18.2020,8:45:00,09:16:00,1860.0,F,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,Y,B,,0.066,N,T1,25.286747,-80.290592
+190,2,A-3,02.18.2020,9:19:00,09:53:00,2040.0,M,Leesburg,Lake,Mount & 8th,K.elegans,N,,,0.043,N,T1,28.7963435,-81.8778849
+19,2,B-1,02.18.2020,9:20:00,19:12:07,35527.0,F,Key Largo,Key Largo,JP,C. corindum,Y,C,,0.050,N,T1,25.1284578,-80.4080913
+164,2,B-2,02.18.2020,9:21:00,17:50:33,30573.0,F,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.053,N,T1,27.298631,-81.36615
+431,2,B-3,02.18.2020,9:22:00,14:18:00,17760.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,BC,,0.040,N,T1,25.2734885,-80.3040957
+228,2,A-3,02.18.2020,9:54:00,14:41:00,17220.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,C,,0.037,N,T1,25.19515,-80.345916
+106,2,B-3,02.18.2020,14:21:00,14:51:00,1800.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.046,Y,T1,24.96424,-80.5673321
+17,2,A-3,02.18.2020,14:53:00,20:03:38,18638.0,M,Key Largo,Key Largo,JP,C. corindum,Y,C,,0.040,N,T1,25.1284578,-80.4080913
+270,2,B-3,02.18.2020,14:54:00,15:48:00,3240.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.027,N,T1,27.298631,-81.36615
+122,2,A-4,02.18.2020,15:54:00,16:29:00,2100.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.032,N,T1,25.1820931,-80.3631938
+442,2,B-3,02.18.2020,15:55:00,16:29:00,2040.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,B,,0.029,N,T1,25.2565615,-80.3108042
+14,2,B-4,02.18.2020,15:56:00,16:29:00,1980.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.023,N,T1,25.1000151,-80.437522
+160,3,A-2,02.19.2020,8:23:00,08:58:00,2100.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.045,N,T1,25.491362,-80.485821
+443,3,A-3,02.19.2020,8:24:00,09:32:00,4080.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,BC,,0.038,N,T1,25.2565615,-80.3108042
+444,3,A-4,02.19.2020,8:24:00,09:21:00,3420.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,C,,0.036,N,T1,25.2565615,-80.3108042
+326,3,B-1,02.19.2020,8:25:00,16:29:00,29040.0,F,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.085,Y,T1,25.2734885,-80.3040957
+115,3,B-2,02.19.2020,8:25:00,08:58:00,1980.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.087,Y,T1,25.1000151,-80.437522
+395,3,B-3,02.19.2020,8:26:00,08:58:00,1920.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.048,N,T1,25.1000151,-80.437522
+151,3,B-4,02.19.2020,8:26:00,10:44:00,8280.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,C,,0.095,N,T1,25.491362,-80.485821
+238,3,A-2,02.19.2020,9:00:00,09:31:00,1860.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,,0.034,N,T1,25.1755702,-80.36780089
+311,3,B-2,02.19.2020,9:00:00,09:31:00,1860.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.036,N,T1,25.1000151,-80.437522
+129,3,B-3,02.19.2020,9:00:00,09:31:00,1860.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,B,,0.036,N,T1,25.2565615,-80.3108042
+441,3,A-2,02.19.2020,9:33:00,10:47:00,4440.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,C,,0.052,N,T1,25.2565615,-80.3108042
+204,3,A-3,02.19.2020,9:34:00,10:08:00,2040.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,B,,0.033,N,T1,24.9735748,-80.5539224
+123,3,A-4,02.19.2020,9:35:00,10:08:00,1980.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.030,N,T1,25.1820931,-80.3631938
+28,3,B-2,02.19.2020,9:35:00,10:08:00,1980.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.035,N,T1,25.19515,-80.345916
+269,3,B-3,02.19.2020,9:36:00,17:40:00,29040.0,F,Lake Placid,Highlands,110N Main,K.elegans,Y,C,SENSOR: lost voltage reading ~ 5:10 PM (17:10) then resolved in 5 min,0.059,N,T1,27.298631,-81.36615
+142,3,A-3,02.19.2020,10:10:00,15:43:00,19980.0,F,North Key Largo,North Key Largo,MM165,C. corindum,Y,C,,0.082,N,T1,25.2275238,-80.3283788
+401,3,A-4,02.19.2020,10:11:00,10:44:00,1980.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.096,Y,T1,24.96424,-80.5673321
+312,3,B-2,02.19.2020,10:12:00,11:30:00,4680.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,B,,0.038,N,T1,25.1000151,-80.437522
+196,3,A-4,02.19.2020,10:44:00,11:32:00,2880.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,C,,0.040,N,T1,29.66200224,-82.347313
+347,3,B-4,02.19.2020,10:46:00,11:33:00,2820.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,B,,0.048,N,T1,25.2275238,-80.3283788
+295,3,A-2,02.19.2020,10:48:00,14:19:00,12660.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,C,,0.033,N,T1,29.66200224,-82.347313
+12,3,A-4,02.19.2020,11:34:00,13:47:00,7980.0,F,Key Largo,Key Largo,KLMRL,C. corindum,Y,C,,0.074,N,T1,25.1000151,-80.437522
+432,3,B-2,02.19.2020,11:35:00,12:24:00,2940.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.039,N,T1,25.2734885,-80.3040957
+412,3,B-4,02.19.2020,11:36:00,17:40:00,21840.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.030,N,T1,25.1820931,-80.3631938
+258,3,B-2,02.19.2020,12:25:00,12:55:00,1800.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.025,N,T1,25.491362,-80.485821
+45,3,B-2,02.19.2020,13:26:00,14:09:00,2580.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,BC,,0.033,N,T1,25.491362,-80.485821
+109,3,A-4,02.19.2020,13:56:00,14:29:00,1980.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.055,N,T1,24.96424,-80.5673321
+27,3,A-2,2.19.2020,14:30:00,15:00:00,1800.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.120,Y,T1,25.19515,-80.345916
+11,3,A-4,2.19.2020,14:31:00,15:15:00,2640.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,C,,0.043,N,T1,25.1000151,-80.437522
+152,3,B-2,2.19.2020,14:32:00,15:00:00,1680.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.029,N,T1,25.491362,-80.485821
+322,3,A-2,2.19.2020,15:01:00,17:08:00,7620.0,F,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.046,N,T1,25.2734885,-80.3040957
+418,3,B-2,2.19.2020,15:02:00,21:03:42,21702.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.046,N,T1,25.1820931,-80.3631938
+33,3,A-4,2.19.2020,15:31:00,22:01:46,23446.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,C,,0.044,N,T1,25.2565615,-80.3108042
+292,3,A-3,2.19.2020,16:01:00,16:31:00,1800.0,F,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.088,N,T1,29.66200224,-82.347313
+227,3,A-3,2.19.2020,16:31:00,17:01:00,1800.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.112,Y,T1,25.19515,-80.345916
+274,4,A-2,2.20.2020,8:15:00,08:45:00,1800.0,M,Lake Wales,Polk,Polk Ave,K.elegans,N,,,0.042,N,T1,27.8967403,-81.5804654
+1,4,A-3,2.20.2020,8:15:00,08:50:00,2100.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,C,,0.038,N,T1,24.9735748,-80.5539224
+69,4,A-4,2.20.2020,8:15:00,08:45:00,1800.0,F,Lake Wales,Polk,Polk Ave,K.elegans,Y,B,,0.060,N,T1,27.8967403,-81.5804654
+224,4,B-1,2.20.2020,8:15:00,09:26:00,4260.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,BC,,0.047,N,T1,25.2734885,-80.3040957
+159,4,B-2,2.20.2020,8:15:00,08:45:00,1800.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.032,N,T1,25.491362,-80.485821
+107,4,B-3,2.20.2020,8:15:00,08:45:00,1800.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.036,N,T1,24.96424,-80.5673321
+409,4,B-4,2.20.2020,8:15:00,08:45:00,1800.0,M,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.029,N,T1,25.1284578,-80.4080913
+149,4,A-2,2.20.2020,8:50:00,09:27:00,2220.0,F,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,N,,,0.082,Y,T1,25.286747,-80.290592
+371,4,A-4,2.20.2020,8:51:00,09:27:00,2160.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.031,N,T1,27.298631,-81.36615
+320,4,B-2,2.20.2020,8:52:00,09:27:00,2100.0,M,Key Largo,Key Largo,JP,C. corindum,N,,,0.047,N,T1,25.1284578,-80.4080913
+44,4,B-3,2.20.2020,8:53:00,09:27:00,2040.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.062,N,T1,25.491362,-80.485821
+375,4,B-4,2.20.2020,8:54:00,18:46:12,35532.0,F,Lake Wales,Polk,Polk Ave,K.elegans,Y,C,,0.063,N,T1,27.8967403,-81.5804654
+71,4,A-3,2.20.2020,8:55:00,17:18:47,30227.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,C,,0.035,N,T1,28.7963435,-81.8778849
+104,4,A-2,2.20.2020,9:30:00,10:05:00,2100.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.057,N,T1,24.9735748,-80.5539224
+360,4,A-4,2.20.2020,9:30:00,10:05:00,2100.0,F,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.106,Y,T1,25.1820931,-80.3631938
+155,4,B-1,2.20.2020,9:30:00,10:05:00,2100.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.092,Y,T1,25.491362,-80.485821
+257,4,B-2,2.20.2020,9:30:00,10:05:00,2100.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,BC,,0.042,N,T1,25.491362,-80.485821
+396,4,B-3,2.20.2020,9:30:00,10:05:00,2100.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,B,,0.051,N,T1,25.1000151,-80.437522
+50,4,A-2,2.20.2020,10:08:00,10:41:00,1980.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.048,N,T1,25.491362,-80.485821
+170,4,A-4,2.20.2020,10:08:00,10:42:00,2040.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,B,,0.045,N,T1,27.298631,-81.36615
+229,4,B-1,2.20.2020,10:09:00,10:42:00,1980.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.095,Y,T1,25.19515,-80.345916
+66,4,B-2,2.20.2020,10:10:00,10:42:00,1920.0,M,Lake Wales,Polk,Polk Ave,K.elegans,Y,B,,0.036,N,T1,27.8967403,-81.5804654
+176,4,B-3,2.20.2020,10:11:00,10:43:00,1920.0,F,Lake Wales,Polk,Polk Ave,K.elegans,N,,,0.058,Y,T1,27.8967403,-81.5804654
+145,4,A-2,2.20.2020,10:46:00,18:38:39,28359.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,C,,0.046,N,T1,25.2275238,-80.3283788
+244,4,A-4,2.20.2020,10:47:00,11:21:00,2040.0,F,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.115,Y,T1,25.2275238,-80.3283788
+132,4,B-1,2.20.2020,10:48:00,11:21:00,1980.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.074,N,T1,25.2734885,-80.3040957
+376,4,B-2,2.20.2020,10:49:00,11:22:00,1980.0,M,Lake Wales,Polk,Polk Ave,K.elegans,N,,,0.031,N,T1,27.8967403,-81.5804654
+425,4,B-3,2.20.2020,10:50:00,11:22:00,1920.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.027,N,T1,25.19515,-80.345916
+167,4,A-4,2.20.2020,11:24:00,11:56:00,1920.0,M,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.029,N,T1,27.298631,-81.36615
+334,4,B-1,2.20.2020,11:24:00,22:01:55,38275.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,C,,0.056,N,T1,25.19515,-80.345916
+406,4,B-2,2.20.2020,11:25:00,11:56:00,1860.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,B,,0.032,N,T1,25.1000151,-80.437522
+434,5,A-2,2.21.2020,8:28:00,09:00:00,1920.0,,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.037,N,T1,25.2734885,-80.3040957
+126,5,A-3,2.21.2020,8:28:00,09:00:00,1920.0,F,North Key Largo,North Key Largo,Carysfort,C. corindum,N,,,0.074,Y,T1,25.2565615,-80.3108042
+393,5,A-4,2.21.2020,8:28:00,09:00:00,1920.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.100,Y,T1,24.96424,-80.5673321
+226,5,B-1,2.21.2020,8:28:00,09:00:00,1920.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.057,N,T1,25.19515,-80.345916
+125,5,B-2,2.21.2020,8:28:00,09:30:00,3720.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.043,N,T1,25.1820931,-80.3631938
+389,5,B-3,2.21.2020,8:28:00,09:00:00,1920.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.105,N,T1,24.96424,-80.5673321
+91,5,B-4,2.21.2020,8:28:00,09:00:00,1920.0,F,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,N,,,0.079,Y,T1,25.286747,-80.290592
+86,5,A-2,2.21.2020,9:04:00,09:39:00,2100.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.033,N,T1,29.66200224,-82.347313
+102,5,A-3,2.21.2020,9:05:00,09:39:00,2040.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,B,,0.043,N,T1,24.9735748,-80.5539224
+271,5,A-4,2.21.2020,9:06:00,12:34:00,12480.0,F,Lake Wales,Polk,Polk Ave,K.elegans,Y,C,,0.050,N,T1,27.8967403,-81.5804654
+5,5,B-1,2.21.2020,9:07:00,09:39:00,1920.0,F,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,DATA COL: did not fly from the windaq file,0.087,Y,T1,24.9735748,-80.5539224
+332,5,B-3,2.21.2020,9:08:00,09:57:00,2940.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,C,,0.029,N,T1,25.19515,-80.345916
+41,5,B-4,2.21.2020,9:08:00,09:39:00,1860.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,DATA COL: did not fly from the windaq file but recording also had voltage problem,0.122,Y,T1,25.491362,-80.485821
+216,5,A-2,2.21.2020,9:41:00,10:17:00,2160.0,M,Key Largo,Key Largo,JP,C. corindum,N,,,0.047,N,T1,25.1284578,-80.4080913
+6,5,A-3,2.21.2020,9:41:00,11:14:00,5580.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,DATA COL: time_end from windaq file,0.042,N,T1,24.96424,-80.5673321
+351,5,B-1,2.21.2020,9:42:00,13:13:00,12660.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,BC,,0.034,N,T1,25.1820931,-80.3631938
+306,5,B-2,2.21.2020,9:42:00,13:12:00,12600.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,BUG: flying in place at 10:23 - look at windaq file to see what flying-in-place motion looks like; time_end from windaq file,0.041,N,T1,24.96424,-80.5673321
+248,5,B-4,2.21.2020,9:43:00,10:48:00,3900.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.037,N,T1,25.1820931,-80.3631938
+433,5,A-2,2.21.2020,10:18:00,10:49:00,1860.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.035,N,T1,25.2734885,-80.3040957
+321,5,B-3,2.21.2020,10:19:00,10:49:00,1800.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.050,Y,T1,25.2734885,-80.3040957
+45,5,A-2,2.21.2020,10:50:00,11:20:00,1800.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,PAINT: paint fell off between 20-30 min into the trial,0.031,N,T1,25.491362,-80.485821
+109,5,B-3,2.21.2020,10:50:00,11:20:00,1800.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.053,Y,T1,24.96424,-80.5673321
+9,6,A-1,2.24.2020,8:34:00,12:19:00,13500.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.043,N,T1,24.96424,-80.5673321
+218,6,A-2,2.24.2020,8:34:00,09:13:00,2340.0,M,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.046,N,T1,25.1284578,-80.4080913
+419,6,A-3,2.24.2020,8:35:00,09:14:00,2340.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.037,N,T1,25.1820931,-80.3631938
+262,6,A-4,2.24.2020,8:36:00,12:19:00,13380.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,SENSOR: sudden drop to 1/2 voltage (baseline @ 2 V),0.037,N,T1,27.298631,-81.36615
+250,6,B-1,2.24.2020,8:40:00,09:14:00,2040.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.040,N,T1,25.1820931,-80.3631938
+72,6,B-2,2.24.2020,8:40:00,09:14:00,2040.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,B,,0.044,N,T1,28.7963435,-81.8778849
+2,6,B-3,2.24.2020,8:40:00,09:14:00,2040.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.037,N,T1,24.9735748,-80.5539224
+403,6,B-4,2.24.2020,8:40:00,18:38:24,35904.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.054,N,T1,24.96424,-80.5673321
+420,6,A-2,2.24.2020,9:15:00,09:52:00,2220.0,F,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.079,Y,T1,25.1820931,-80.3631938
+256,6,A-3,2.24.2020,9:18:00,09:52:00,2040.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.034,N,T1,25.491362,-80.485821
+158,6,B-1,2.24.2020,9:19:00,09:52:00,1980.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.024,N,T1,25.491362,-80.485821
+405,6,B-2,2.24.2020,9:20:00,09:52:00,1920.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.064,Y,T1,24.96424,-80.5673321
+43,6,B-3,2.24.2020,9:20:00,09:52:00,1920.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.062,Y,T1,25.491362,-80.485821
+7,6,A-2,2.24.2020,9:54:00,21:16:42,40962.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.064,N,T1,24.96424,-80.5673321
+16,6,A-3,2.24.2020,9:55:00,10:29:00,2040.0,F,Key Largo,Key Largo,JP,C. corindum,N,,,0.045,N,T1,25.1284578,-80.4080913
+187,6,B-1,2.24.2020,9:56:00,10:29:00,1980.0,F,Leesburg,Lake,Mount & 8th,K.elegans,N,,,0.117,Y,T1,28.7963435,-81.8778849
+390,6,B-2,2.24.2020,9:57:00,10:29:00,1920.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.049,Y,T1,24.96424,-80.5673321
+103,6,B-3,2.24.2020,9:58:00,10:29:00,1860.0,F,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.050,N,T1,24.9735748,-80.5539224
+81,6,A-3,2.24.2020,10:30:00,11:05:00,2100.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.038,N,T1,29.66200224,-82.347313
+146,6,B-1,2.24.2020,10:31:00,11:05:00,2040.0,F,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,N,,,0.029,N,T1,25.286747,-80.290592
+240,6,B-2,2.24.2020,10:32:00,11:05:00,1980.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,B,,0.039,N,T1,25.1755702,-80.36780089
+230,6,B-3,2.24.2020,10:33:00,11:05:00,1920.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.039,N,T1,25.19515,-80.345916
+206,6,A-3,2.24.2020,11:07:00,11:42:00,2100.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.038,N,T1,24.96424,-80.5673321
+217,6,B-1,2.24.2020,11:08:00,11:42:00,2040.0,F,Key Largo,Key Largo,JP,C. corindum,N,,,0.107,Y,T1,25.1284578,-80.4080913
+124,6,B-2,2.24.2020,11:09:00,11:42:00,1980.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.040,N,T1,25.1820931,-80.3631938
+233,6,B-3,2.24.2020,11:10:00,11:42:00,1920.0,F,North Key Largo,North Key Largo,Carysfort,C. corindum,N,,,0.066,Y,T1,25.2565615,-80.3108042
+281,6,A-3,2.24.2020,11:45:00,12:19:00,2040.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,B,,0.030,N,T1,28.7963435,-81.8778849
+417,6,B-1,2.24.2020,11:46:00,12:19:00,1980.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.037,N,T1,25.1820931,-80.3631938
+205,6,B-2,2.24.2020,11:47:00,12:19:00,1920.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,B,,0.039,N,T1,24.9735748,-80.5539224
+415,6,B-3,2.24.2020,11:47:00,12:19:00,1920.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,CB,,0.042,N,T1,25.1820931,-80.3631938
+319,6,A-1,2.24.2020,13:35:00,14:11:00,2160.0,F,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.099,N,T1,25.1284578,-80.4080913
+110,6,A-3,2.24.2020,13:36:00,14:11:00,2100.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.028,N,T1,24.96424,-80.5673321
+118,6,A-4,2.24.2020,13:39:00,14:11:00,1920.0,M,Key Largo,Key Largo,JP,C. corindum,N,,,0.040,N,T1,25.1284578,-80.4080913
+34,6,B-1,2.24.2020,13:40:00,15:25:00,6300.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,C,,0.046,N,T1,25.2565615,-80.3108042
+259,6,B-2,2.24.2020,13:40:00,14:11:00,1860.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.032,N,T1,25.491362,-80.485821
+294,6,A-1,2.24.2020,14:15:00,14:50:00,2100.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,B,,0.033,N,T1,29.66200224,-82.347313
+416,6,A-3,2.24.2020,14:16:00,14:50:00,2040.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.034,N,T1,25.1820931,-80.3631938
+47,6,B-2,2.24.2020,14:17:00,22:00:57,27837.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,C,,0.059,N,T1,25.491362,-80.485821
+411,6,B-3,2.24.2020,14:19:00,14:50:00,1860.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.036,N,T1,25.1820931,-80.3631938
+328,6,A-1,2.24.2020,14:53:00,15:35:00,2520.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.074,Y,T1,25.2734885,-80.3040957
+8,6,A-3,2.24.2020,14:54:00,15:25:00,1860.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.109,Y,T1,24.96424,-80.5673321
+13,6,B-3,2.24.2020,14:55:00,15:35:00,2400.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.131,Y,T1,25.1000151,-80.437522
+335,6,A-1,2.24.2020,15:38:00,16:00:00,1320.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,BUG: paint on antennae-freaked out ,0.033,N,T1,25.19515,-80.345916
+201,7,A-1,2.25.2020,8:05:00,10:59:00,10440.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,C,,0.035,N,T1,24.9735748,-80.5539224
+346,7,A-2,2.25.2020,8:05:00,08:37:00,1920.0,F,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.179,Y,T1,25.2275238,-80.3283788
+53,7,A-3,2.25.2020,8:05:00,08:37:00,1920.0,F,Lake Placid,Highlands,110N Main,K.elegans,Y,B,,0.106,Y,T1,27.298631,-81.36615
+349,7,A-4,2.25.2020,8:05:00,08:37:00,1920.0,M,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.036,N,T1,25.2275238,-80.3283788
+439,7,B-1,2.25.2020,8:07:00,08:37:00,1800.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.033,N,T1,25.2734885,-80.3040957
+93,7,B-2,2.25.2020,8:07:00,08:37:00,1800.0,F,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,N,,,0.053,N,T1,25.286747,-80.290592
+310,7,B-3,2.25.2020,8:07:00,08:37:00,1800.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.045,N,T1,24.96424,-80.5673321
+87,7,B-4,2.25.2020,8:07:00,08:37:00,1800.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,B,,0.032,N,T1,29.66200224,-82.347313
+237,7,A-2,2.25.2020,8:42:00,09:18:00,2160.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,,0.072,Y,T1,25.1755702,-80.36780089
+235,7,A-3,2.25.2020,8:43:00,09:18:00,2100.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,B,,0.039,N,T1,25.2565615,-80.3108042
+266,7,A-4,2.25.2020,8:44:00,09:18:00,2040.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,B,,0.030,N,T1,27.298631,-81.36615
+260,7,B-1,2.25.2020,8:45:00,09:18:00,1980.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.026,N,T1,25.491362,-80.485821
+314,7,B-2,2.25.2020,8:46:00,09:18:00,1920.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.070,Y,T1,25.1000151,-80.437522
+99,7,B-3,2.25.2020,8:47:00,09:18:00,1860.0,M,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.030,N,T1,25.2275238,-80.3283788
+38,7,B-4,2.25.2020,8:48:00,11:37:00,10140.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,C,,0.040,N,T1,25.1755702,-80.36780089
+382,7,A-2,2.25.2020,9:20:00,13:39:00,15540.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.034,N,T1,24.96424,-80.5673321
+209,7,A-3,2.25.2020,9:21:00,11:59:00,9480.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.038,N,T1,24.96424,-80.5673321
+42,7,A-4,2.25.2020,9:22:00,09:56:00,2040.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.069,N,T1,25.491362,-80.485821
+282,7,B-1,2.25.2020,9:23:00,19:14:01,35461.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,C,,0.034,N,T1,28.7963435,-81.8778849
+161,7,B-2,2.25.2020,9:24:00,16:03:00,23940.0,F,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.066,N,T1,27.298631,-81.36615
+413,7,B-3,2.25.2020,9:25:00,09:56:00,1860.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.049,N,T1,25.1820931,-80.3631938
+56,7,A-4,2.25.2020,9:57:00,15:28:00,19860.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.036,N,T1,27.298631,-81.36615
+215,7,B-3,2.25.2020,9:58:00,22:01:09,43389.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,C,,0.048,N,T1,25.1000151,-80.437522
+246,7,A-1,2.25.2020,11:00:00,11:30:00,1800.0,F,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.133,Y,T1,25.1820931,-80.3631938
+394,7,A-1,2.25.2020,11:30:00,21:46:50,37010.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.026,N,T1,24.96424,-80.5673321
+25,7,A-3,2.25.2020,12:00:00,12:31:00,1860.0,F,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.052,N,T1,25.2734885,-80.3040957
+192,7,B-4,2.25.2020,12:00:00,12:30:00,1800.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.054,N,T1,29.66200224,-82.347313
+428,7,B-4,2.25.2020,12:30:00,13:00:00,1800.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.060,Y,T1,25.19515,-80.345916
+222,7,A-2,2.25.2020,13:42:00,14:16:00,2040.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.146,Y,T1,25.2734885,-80.3040957
+263,7,A-3,2.25.2020,13:44:00,14:16:00,1920.0,F,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.061,N,T1,27.298631,-81.36615
+46,7,B-4,2.25.2020,13:46:00,14:16:00,1800.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.033,N,T1,25.491362,-80.485821
+59,7,A-2,2.25.2020,14:20:00,14:52:00,1920.0,F,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.089,Y,T1,27.298631,-81.36615
+184,7,A-3,2.25.2020,14:20:00,14:52:00,1920.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,B,,0.027,N,T1,28.7963435,-81.8778849
+327,7,B-4,2.25.2020,14:20:00,14:52:00,1920.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.078,Y,T1,25.2734885,-80.3040957
+188,7,A-2,2.25.2020,14:55:00,15:28:00,1980.0,F,Leesburg,Lake,Mount & 8th,K.elegans,N,,,0.050,Y,T1,28.7963435,-81.8778849
+30,7,A-3,2.25.2020,14:56:00,15:28:00,1920.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.091,Y,T1,25.19515,-80.345916
+254,7,B-4,2.25.2020,14:57:00,15:28:00,1860.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.071,Y,T1,25.491362,-80.485821
+383,7,A-2,2.25.2020,15:30:00,18:30:38,10838.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.050,N,T1,24.96424,-80.5673321
+339,7,A-3,2.25.2020,15:30:00,16:03:00,1980.0,F,North Key Largo,North Key Largo,Carysfort,C. corindum,N,,,NA,NA,T1,25.2565615,-80.3108042
+48,7,A-4,2.25.2020,15:31:00,16:03:00,1920.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,NA,NA,T1,25.491362,-80.485821
+342,7,B-4,2.25.2020,15:32:00,16:03:00,1860.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,CB,,NA,NA,T1,25.1755702,-80.36780089
+168,8,A-1,2.26.2020,9:05:00,09:35:00,1800.0,F,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.052,N,T1,27.298631,-81.36615
+96,8,A-2,2.26.2020,9:05:00,09:35:00,1800.0,F,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.098,Y,T1,25.2275238,-80.3283788
+40,8,A-3,2.26.2020,9:05:00,10:17:00,4320.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,C,,0.033,N,T1,25.1755702,-80.36780089
+307,8,A-4,2.26.2020,9:05:00,10:55:00,6600.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.029,N,T1,24.96424,-80.5673321
+437,8,B-1,2.26.2020,9:05:00,09:35:00,1800.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.046,N,T1,25.2734885,-80.3040957
+407,8,B-2,2.26.2020,9:05:00,09:35:00,1800.0,F,Key Largo,Key Largo,JP,C. corindum,N,,,0.076,Y,T1,25.1284578,-80.4080913
+200,8,B-3,2.26.2020,9:05:00,09:35:00,1800.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,B,,0.033,N,T1,29.66200224,-82.347313
+304,8,B-4,2.26.2020,9:05:00,09:35:00,1800.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.028,N,T1,24.9735748,-80.5539224
+212,8,A-1,2.26.2020,9:40:00,22:02:33,44553.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,C,,0.033,N,T1,25.1000151,-80.437522
+136,8,A-2,2.26.2020,9:41:00,17:07:41,26801.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,C,,0.051,Y,T1,25.1755702,-80.36780089
+309,8,B-1,2.26.2020,9:42:00,16:30:00,24480.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.035,N,T1,24.96424,-80.5673321
+397,8,B-2,2.26.2020,9:43:00,10:18:00,2100.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,B,,0.047,N,T1,25.1000151,-80.437522
+265,8,B-3,2.26.2020,9:45:00,10:18:00,1980.0,F,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.049,N,T1,27.298631,-81.36615
+156,8,B-4,2.26.2020,9:46:00,10:18:00,1920.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.060,Y,T1,25.491362,-80.485821
+225,8,A-3,2.26.2020,10:20:00,11:10:00,3000.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.038,N,T1,25.2734885,-80.3040957
+392,8,B-2,2.26.2020,10:21:00,10:55:00,2040.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.026,N,T1,24.96424,-80.5673321
+31,8,B-3,2.26.2020,10:23:00,10:55:00,1920.0,F,North Key Largo,North Key Largo,Carysfort,C. corindum,N,,,0.101,Y,T1,25.2565615,-80.3108042
+253,8,B-4,2.26.2020,10:24:00,10:55:00,1860.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.129,Y,T1,25.491362,-80.485821
+231,8,A-4,2.26.2020,10:57:00,11:31:00,2040.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,C,,0.039,N,T1,25.2565615,-80.3108042
+105,8,B-2,2.26.2020,10:58:00,11:31:00,1980.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.044,N,T1,24.9735748,-80.5539224
+112,8,B-3,2.26.2020,10:59:00,11:31:00,1920.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.073,Y,T1,25.1000151,-80.437522
+343,8,B-4,2.26.2020,11:00:00,19:00:59,28859.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,C,,0.041,N,T1,25.1755702,-80.36780089
+355,8,A-3,2.26.2020,11:41:00,13:37:00,6960.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.027,N,T1,25.1820931,-80.3631938
+95,8,A-4,2.26.2020,11:43:00,12:15:00,1920.0,M,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,Y,B,,0.049,N,T1,25.286747,-80.290592
+77,8,B-2,2.26.2020,11:45:00,13:35:00,6600.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,C,,0.036,N,T1,28.7963435,-81.8778849
+120,8,B-3,2.26.2020,11:46:00,12:15:00,1740.0,M,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.029,N,T1,25.1284578,-80.4080913
+193,8,A-3,2.26.2020,13:38:00,14:09:00,1860.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.039,N,T1,29.66200224,-82.347313
+308,8,A-4,2.26.2020,13:39:00,14:11:00,1920.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.072,N,T1,24.96424,-80.5673321
+385,8,B-2,2.26.2020,13:40:00,14:11:00,1860.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.067,Y,T1,24.96424,-80.5673321
+52,8,B-3,2.26.2020,13:41:00,22:06:01,30301.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,BC,,0.038,N,T1,27.298631,-81.36615
+90,8,A-3,2.26.2020,14:13:00,14:45:00,1920.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,B,,0.033,N,T1,29.66200224,-82.347313
+119,8,A-4,2.26.2020,14:14:00,14:45:00,1860.0,F,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.043,N,T1,25.1284578,-80.4080913
+3,8,B-2,2.26.2020,14:15:00,14:45:00,1800.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,B,,0.048,N,T1,24.9735748,-80.5539224
+316,8,A-3,2.26.2020,14:46:00,15:18:00,1920.0,M,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.036,N,T1,25.1284578,-80.4080913
+344,8,A-4,2.26.2020,14:47:00,15:18:00,1860.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,,0.040,N,T1,25.1755702,-80.36780089
+359,8,B-2,2.26.2020,14:48:00,15:18:00,1800.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.026,N,T1,25.1820931,-80.3631938
+388,8,A-3,2.26.2020,15:19:00,15:53:00,2040.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.051,N,T1,24.96424,-80.5673321
+421,8,A-4,2.26.2020,15:20:00,15:53:00,1980.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.044,N,T1,25.1820931,-80.3631938
+249,8,B-2,2.26.2020,15:21:00,19:37:33,15393.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.043,N,T1,25.1820931,-80.3631938
+211,8,A-3,2.26.2020,15:54:00,16:30:00,2160.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.056,N,T1,25.1000151,-80.437522
+140,8,A-4,2.26.2020,15:55:00,16:30:00,2100.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,,,0.090,N,T1,25.1755702,-80.36780089
+108,9,A-1,2.27.2020,8:13:00,08:50:00,2220.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.048,N,T1,24.96424,-80.5673321
+210,9,A-2,2.27.2020,8:14:00,10:40:00,8760.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.047,N,T1,24.96424,-80.5673321
+245,9,A-3,2.27.2020,8:15:00,08:50:00,2100.0,M,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.035,N,T1,25.2275238,-80.3283788
+384,9,A-4,2.27.2020,8:15:00,08:50:00,2100.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.031,N,T1,24.96424,-80.5673321
+315,9,B-1,2.27.2020,8:16:00,08:50:00,2040.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,CB,,0.032,N,T1,25.1000151,-80.437522
+358,9,B-3,2.27.2020,8:17:00,08:50:00,1980.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.029,N,T1,25.1820931,-80.3631938
+424,9,B-4,2.27.2020,8:18:00,08:50:00,1920.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,CB,,0.060,N,T1,25.19515,-80.345916
+18,9,A-1,2.27.2020,8:54:00,22:11:41,47861.0,M,Key Largo,Key Largo,JP,C. corindum,Y,C,DATA COL: was still flying but took down (thought 24 hours was the limit),0.043,N,T1,25.1284578,-80.4080913
+131,9,A-3,2.27.2020,8:55:00,22:00:51,47151.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.040,N,T1,25.2734885,-80.3040957
+26,9,A-4,2.27.2020,8:56:00,09:32:00,2160.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,SENSOR: A-4 having sporadic readings,0.039,N,T1,25.19515,-80.345916
+29,9,B-1,2.27.2020,8:58:00,09:32:00,2040.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.048,Y,T1,25.19515,-80.345916
+49,9,B-2,2.27.2020,8:59:00,09:32:00,1980.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.052,N,T1,25.491362,-80.485821
+400,9,B-3,2.27.2020,9:00:00,09:32:00,1920.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.045,N,T1,25.1000151,-80.437522
+357,9,B-4,2.27.2020,9:01:00,09:32:00,1860.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.028,N,T1,25.1820931,-80.3631938
+353,9,A-4,2.27.2020,9:36:00,11:36:00,7200.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.038,N,T1,25.1820931,-80.3631938
+438,9,B-1,2.27.2020,9:37:00,22:03:45,44805.0,F,North Key Largo,North Key Largo,DD front,C. corindum,Y,BC,,0.069,N,T1,25.2734885,-80.3040957
+429,9,B-2,2.27.2020,9:38:00,10:17:00,2340.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.079,Y,T1,25.19515,-80.345916
+10,9,B-3,2.27.2020,9:39:00,10:17:00,2280.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.057,N,T1,24.96424,-80.5673321
+303,9,B-4,2.27.2020,9:40:00,13:15:00,12900.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,C,,0.042,N,T1,24.9735748,-80.5539224
+232,9,B-2,2.27.2020,10:18:00,10:40:00,1320.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,N,,,0.048,N,T1,25.2565615,-80.3108042
+135,9,B-3,2.27.2020,10:19:00,10:40:00,1260.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.132,Y,T1,25.2734885,-80.3040957
+137,9,A-2,2.27.2020,10:42:00,14:54:00,15120.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,C,,0.048,N,T1,25.1755702,-80.36780089
+98,9,B-2,2.27.2020,10:43:00,11:13:00,1800.0,M,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.033,N,T1,25.2275238,-80.3283788
+345,9,B-3,2.27.2020,10:44:00,11:13:00,1740.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,,0.082,Y,T1,25.1755702,-80.36780089
+197,9,B-2,2.27.2020,11:13:00,11:43:00,1800.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.030,N,T1,29.66200224,-82.347313
+350,9,B-3,2.27.2020,11:14:00,18:00:00,24360.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,BC,DATA COL: taken down before Ana left but time not written down,0.030,N,T1,25.2275238,-80.3283788
+183,9,A-4,2.27.2020,11:46:00,13:18:00,5520.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,C,,0.033,N,T1,28.7963435,-81.8778849
+325,9,B-2,2.27.2020,11:47:00,12:17:00,1800.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.046,N,T1,25.2734885,-80.3040957
+35,9,B-2,2.27.2020,13:16:00,13:48:00,1920.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,B,,0.032,N,T1,25.2565615,-80.3108042
+154,9,A-4,2.27.2020,13:18:00,13:48:00,1800.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.024,N,T1,25.491362,-80.485821
+83,10,A-1,2.28.2020,8:00:00,08:37:00,2220.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.048,N,T1,29.66200224,-82.347313
+20,10,A-2,2.28.2020,8:01:00,08:37:00,2160.0,F,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.066,N,T1,25.1284578,-80.4080913
+313,10,A-3,2.28.2020,8:02:00,08:37:00,2100.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.039,N,T1,25.1000151,-80.437522
+24,10,A-4,2.28.2020,8:03:00,08:37:00,2040.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.042,N,T1,25.2734885,-80.3040957
+236,10,B-1,2.28.2020,8:04:00,08:37:00,1980.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,B,,0.044,N,T1,25.1755702,-80.36780089
+22,10,B-2,2.28.2020,8:05:00,08:37:00,1920.0,M,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.043,N,T1,25.2734885,-80.3040957
+214,10,B-3,2.28.2020,8:06:00,08:37:00,1860.0,F,Key Largo,Key Largo,KLMRL,C. corindum,Y,B,,0.105,N,T1,25.1000151,-80.437522
+57,10,B-4,2.28.2020,8:07:00,08:37:00,1800.0,M,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.035,N,T1,27.298631,-81.36615
+169,10,A-1,2.28.2020,8:39:00,16:07:00,26880.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.041,N,T1,27.298631,-81.36615
+261,10,A-2,2.28.2020,8:40:00,10:25:00,6300.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,BC,"MARKER: made 261, 391, 261 commented even marker",0.039,N,T1,27.298631,-81.36615
+391,10,A-3,2.28.2020,8:41:00,09:29:00,2880.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.053,N,T1,24.96424,-80.5673321
+323,10,A-4,2.28.2020,8:42:00,10:22:00,6000.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,BC,,0.035,N,T1,25.2734885,-80.3040957
+293,10,B-1,2.28.2020,8:43:00,09:16:00,1980.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.038,N,T1,29.66200224,-82.347313
+247,10,B-2,2.28.2020,8:44:00,10:22:00,5880.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,BC,,0.031,N,T1,25.1820931,-80.3631938
+408,10,B-3,2.28.2020,8:45:00,09:16:00,1860.0,F,Key Largo,Key Largo,JP,C. corindum,N,,,0.050,Y,T1,25.1284578,-80.4080913
+139,10,B-4,2.28.2020,8:46:00,15:05:00,22740.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,C,,0.040,N,T1,25.1755702,-80.36780089
+331,10,B-1,2.28.2020,9:17:00,10:22:00,3900.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,BC,,0.038,N,T1,25.19515,-80.345916
+301,10,B-3,2.28.2020,9:18:00,12:16:00,10680.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,C,DATA COL: had to reposition at 9:49,0.039,N,T1,24.9735748,-80.5539224
+387,10,A-3,2.28.2020,9:49:00,10:22:00,1980.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.095,Y,T1,24.96424,-80.5673321
+97,10,A-2,2.28.2020,10:26:00,11:04:00,2280.0,F,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.099,N,T1,25.2275238,-80.3283788
+141,10,A-3,2.28.2020,10:27:00,11:04:00,2220.0,F,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.061,N,T1,25.2275238,-80.3283788
+101,10,A-4,2.28.2020,10:28:00,11:04:00,2160.0,F,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.090,N,T1,24.9735748,-80.5539224
+324,10,B-1,2.28.2020,10:29:00,22:54:19,44719.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.036,N,T1,25.2734885,-80.3040957
+116,10,B-2,2.28.2020,10:30:00,11:00:00,1800.0,F,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.066,N,T1,25.1284578,-80.4080913
+221,10,B-2,2.28.2020,11:26:00,11:57:00,1860.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.090,Y,T1,25.2734885,-80.3040957
+333,10,A-3,2.28.2020,11:26:00,11:57:00,1860.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.034,N,T1,25.19515,-80.345916
+113,10,A-4,2.28.2020,11:26:00,11:57:00,1860.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.037,N,T1,25.1000151,-80.437522
+330,10,A-2,2.28.2020,11:26:00,11:57:00,1860.0,F,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.109,Y,T1,25.2734885,-80.3040957
+194,10,A-2,2.28.2020,12:00:00,13:39:00,5940.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,C,MARKER: made comment 330 then 194,0.043,N,T1,29.66200224,-82.347313
+410,10,A-3,2.28.2020,12:01:00,16:58:03,17823.0,M,Key Largo,Key Largo,JP,C. corindum,Y,C,,0.044,N,T1,25.1284578,-80.4080913
+54,10,A-4,2.28.2020,12:02:00,12:36:00,2040.0,F,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.094,Y,T1,27.298631,-81.36615
+404,10,B-2,2.28.2020,12:03:00,13:39:00,5760.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.032,N,T1,24.96424,-80.5673321
+352,10,A-4,2.28.2020,12:37:00,13:39:00,3720.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.029,N,T1,25.1820931,-80.3631938
+37,11,A-1,03.03.2020,8:46:00,09:22:00,2160.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,,0.062,Y,T2,25.1755702,-80.36780089
+209,11,A-2,03.03.2020,8:46:00,09:22:00,2160.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,CB,,0.040,N,T2,24.96424,-80.5673321
+92,11,A-3,03.03.2020,8:46:00,09:22:00,2160.0,F,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,Y,B,,0.138,Y,T2,25.286747,-80.290592
+123,11,A-4,03.03.2020,8:46:00,09:22:00,2160.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.039,N,T2,25.1820931,-80.3631938
+230,11,B-1,03.03.2020,8:50:00,15:20:00,23400.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,C,,0.043,N,T2,25.19515,-80.345916
+417,11,B-2,03.03.2020,8:50:00,09:22:00,1920.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.034,N,T2,25.1820931,-80.3631938
+320,11,B-3,03.03.2020,8:50:00,09:22:00,1920.0,M,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.043,N,T2,25.1284578,-80.4080913
+332,11,B-4,03.03.2020,8:50:00,09:22:00,1920.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.034,N,T2,25.19515,-80.345916
+176,11,A-1,03.03.2020,9:25:00,10:01:00,2160.0,F,Lake Wales,Polk,Polk Ave,K.elegans,N,,,0.058,Y,T2,27.8967403,-81.5804654
+233,11,A-2,03.03.2020,9:26:00,10:01:00,2100.0,F,North Key Largo,North Key Largo,Carysfort,C. corindum,N,,,0.064,N,T2,25.2565615,-80.3108042
+125,11,A-3,03.03.2020,9:27:00,10:01:00,2040.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.041,N,T2,25.1820931,-80.3631938
+376,11,A-4,03.03.2020,9:28:00,10:01:00,1980.0,M,Lake Wales,Polk,Polk Ave,K.elegans,N,,,0.029,N,T2,27.8967403,-81.5804654
+187,11,B-2,03.03.2020,9:29:00,10:01:00,1920.0,F,Leesburg,Lake,Mount & 8th,K.elegans,N,,,0.087,Y,T2,28.7963435,-81.8778849
+26,11,B-3,03.03.2020,9:30:00,10:01:00,1860.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.081,Y,T2,25.19515,-80.345916
+29,11,B-4,03.03.2020,9:31:00,10:01:00,1800.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.066,Y,T2,25.19515,-80.345916
+423,11,A-1,03.03.2020,10:03:00,10:38:00,2100.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.034,N,T2,25.1820931,-80.3631938
+179,11,A-2,03.03.2020,10:04:00,10:38:00,2040.0,F,Lake Wales,Polk,Polk Ave,K.elegans,N,,,0.082,N,T2,27.8967403,-81.5804654
+433,11,A-4,03.03.2020,10:05:00,10:38:00,1980.0,M,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.041,N,T2,25.2734885,-80.3040957
+18,11,B-2,03.03.2020,10:06:00,10:38:00,1920.0,M,Key Largo,Key Largo,JP,C. corindum,N,,,0.045,N,T2,25.1284578,-80.4080913
+262,11,B-3,03.03.2020,10:07:00,10:38:00,1860.0,M,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.043,N,T2,27.298631,-81.36615
+42,11,B-4,03.03.2020,10:08:00,10:38:00,1800.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.084,N,T2,25.491362,-80.485821
+102,11,A-1,03.03.2020,10:40:00,11:16:00,2160.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,B,,0.042,N,T2,24.9735748,-80.5539224
+81,11,A-2,03.03.2020,10:41:00,11:16:00,2100.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,B,,0.047,N,T2,29.66200224,-82.347313
+266,11,A-4,03.03.2020,10:42:00,11:16:00,2040.0,M,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.035,N,T2,27.298631,-81.36615
+295,11,B-2,03.03.2020,10:43:00,11:16:00,1980.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,B,,0.031,N,T2,29.66200224,-82.347313
+197,11,B-3,03.03.2020,10:44:00,11:16:00,1920.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,B,,0.029,N,T2,29.66200224,-82.347313
+114,11,B-4,03.03.2020,10:45:00,11:16:00,1860.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.045,N,T2,25.1000151,-80.437522
+62,11,A-1,03.03.2020,11:19:00,18:15:16,24976.0,M,Lake Wales,Polk,Polk Ave,K.elegans,Y,C,,0.036,N,T2,27.8967403,-81.5804654
+69,11,A-2,03.03.2020,11:19:00,11:54:00,2100.0,F,Lake Wales,Polk,Polk Ave,K.elegans,Y,B,,0.088,N,T2,27.8967403,-81.5804654
+152,11,A-4,03.03.2020,11:20:00,11:54:00,2040.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.033,N,T2,25.491362,-80.485821
+36,11,B-2,03.03.2020,11:21:00,22:00:59,38399.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,BC,,0.044,N,T2,25.1755702,-80.36780089
+13,11,B-3,03.03.2020,11:22:00,11:54:00,1920.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.116,Y,T2,25.1000151,-80.437522
+396,11,B-4,03.03.2020,11:23:00,12:10:00,2820.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,BC,,0.046,N,T2,25.1000151,-80.437522
+196,11,A-3,03.03.2020,11:55:00,13:44:00,6540.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,C,,0.036,N,T2,29.66200224,-82.347313
+328,11,A-3,03.03.2020,11:56:00,12:32:00,2160.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.084,Y,T2,25.2734885,-80.3040957
+421,11,A-4,03.03.2020,11:57:00,12:32:00,2100.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.044,N,T2,25.1820931,-80.3631938
+256,11,B-3,03.03.2020,11:58:00,12:32:00,2040.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.026,N,T2,25.491362,-80.485821
+155,11,A-3,03.03.2020,12:34:00,13:09:00,2100.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.066,N,T2,25.491362,-80.485821
+441,11,A-4,03.03.2020,12:35:00,13:09:00,2040.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,B,,0.063,N,T2,25.2565615,-80.3108042
+387,11,B-3,03.03.2020,12:37:00,13:09:00,1920.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.078,Y,T2,24.96424,-80.5673321
+72,11,B-4,03.03.2020,12:38:00,15:10:00,9120.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,C,,0.046,N,T2,28.7963435,-81.8778849
+136,11,A-3,03.03.2020,13:12:00,13:44:00,1920.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,B,,0.089,Y,T2,25.1755702,-80.36780089
+325,11,A-4,03.03.2020,13:13:00,13:44:00,1860.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.049,N,T2,25.2734885,-80.3040957
+46,11,B-3,03.03.2020,13:14:00,13:44:00,1800.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.032,N,T2,25.491362,-80.485821
+40,11,A-2,03.03.2020,13:46:00,15:20:00,5640.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,C,,0.036,N,T2,25.1755702,-80.36780089
+95,11,A-3,03.03.2020,13:47:00,14:19:00,1920.0,M,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,Y,B,,0.043,N,T2,25.286747,-80.290592
+429,11,A-4,03.03.2020,13:48:00,14:19:00,1860.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.093,Y,T2,25.19515,-80.345916
+282,12,A-1,03.04.2020,8:15:00,09:16:00,3660.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,C,,0.041,N,T2,28.7963435,-81.8778849
+281,12,A-2,03.04.2020,8:15:00,08:47:00,1920.0,M,Leesburg,Lake,Mount & 8th,K.elegans,N,,,0.032,N,T2,28.7963435,-81.8778849
+351,12,A-3,03.04.2020,8:15:00,11:20:00,11100.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.038,N,T2,25.1820931,-80.3631938
+316,12,A-4,03.04.2020,8:15:00,08:47:00,1920.0,M,Key Largo,Key Largo,JP,C. corindum,N,,,0.047,N,T2,25.1284578,-80.4080913
+77,12,B-1,03.04.2020,8:15:00,08:47:00,1920.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,B,,0.034,N,T2,28.7963435,-81.8778849
+331,12,B-2,03.04.2020,8:15:00,08:47:00,1920.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.042,N,T2,25.19515,-80.345916
+194,12,B-3,03.04.2020,8:15:00,08:47:00,1920.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.049,N,T2,29.66200224,-82.347313
+132,12,B-4,03.04.2020,8:15:00,08:47:00,1920.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.068,Y,T2,25.2734885,-80.3040957
+254,12,A-2,03.04.2020,8:50:00,09:25:00,2100.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.068,Y,T2,25.491362,-80.485821
+145,12,A-4,03.04.2020,8:50:00,13:16:00,15960.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,C,,0.042,N,T2,25.2275238,-80.3283788
+333,12,B-1,03.04.2020,8:51:00,09:25:00,2040.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.034,N,T2,25.19515,-80.345916
+271,12,B-2,03.04.2020,8:52:00,09:25:00,1980.0,F,Lake Wales,Polk,Polk Ave,K.elegans,N,,,0.080,Y,T2,27.8967403,-81.5804654
+193,12,B-3,03.04.2020,8:53:00,09:25:00,1920.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.040,N,T2,29.66200224,-82.347313
+98,12,B-4,03.04.2020,8:54:00,09:25:00,1860.0,M,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.040,N,T2,25.2275238,-80.3283788
+47,12,A-1,03.04.2020,9:26:00,10:01:00,2100.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.086,Y,T2,25.491362,-80.485821
+383,12,A-2,03.04.2020,9:27:00,11:16:00,6540.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.057,N,T2,24.96424,-80.5673321
+235,12,B-1,03.04.2020,9:28:00,10:01:00,1980.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,B,,0.040,N,T2,25.2565615,-80.3108042
+303,12,B-2,03.04.2020,9:29:00,10:06:00,2220.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,C,DCS: had to reposition to face orthogonal; channel B-2 voltage dropped to 0 around this time,0.043,N,T2,24.9735748,-80.5539224
+144,12,B-3,03.04.2020,9:30:00,10:01:00,1860.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,B,,0.039,N,T2,25.2275238,-80.3283788
+113,12,B-4,03.04.2020,9:31:00,10:01:00,1800.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.039,N,T2,25.1000151,-80.437522
+66,12,A-1,03.04.2020,10:04:00,14:38:00,16440.0,M,Lake Wales,Polk,Polk Ave,K.elegans,Y,C,,0.037,N,T2,27.8967403,-81.5804654
+357,12,B-1,03.04.2020,10:05:00,10:40:00,2100.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.031,N,T2,25.1820931,-80.3631938
+407,12,B-2,03.04.2020,10:06:00,10:40:00,2040.0,F,Key Largo,Key Largo,JP,C. corindum,N,,,0.056,N,T2,25.1284578,-80.4080913
+415,12,B-3,03.04.2020,10:07:00,22:07:43,43243.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.042,N,T2,25.1820931,-80.3631938
+96,12,B-4,03.04.2020,10:09:00,10:40:00,1860.0,F,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.104,N,T2,25.2275238,-80.3283788
+404,12,B-1,03.04.2020,10:41:00,13:03:00,8520.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,BC,,0.035,N,T2,24.96424,-80.5673321
+44,12,B-2,03.04.2020,10:42:00,11:17:00,2100.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.066,N,T2,25.491362,-80.485821
+12,12,B-4,03.04.2020,10:43:00,11:17:00,2040.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.138,Y,T2,25.1000151,-80.437522
+232,12,A-2,03.04.2020,11:18:00,19:07:19,28159.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,C,,0.044,N,T2,25.2565615,-80.3108042
+239,12,B-2,03.04.2020,11:19:00,11:54:00,2100.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,B,,0.037,N,T2,25.1755702,-80.36780089
+215,12,B-4,03.04.2020,11:20:00,17:20:34,21634.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,C,SENSOR: voltage problem; stopped recording dips,0.045,N,T2,25.1000151,-80.437522
+412,12,A-3,03.04.2020,11:20:00,14:12:00,10320.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.036,N,T2,25.1820931,-80.3631938
+133,12,B-2,03.04.2020,11:55:00,12:29:00,2040.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.099,Y,T2,25.2734885,-80.3040957
+334,12,B-2,03.04.2020,12:31:00,13:01:00,1800.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.060,N,T2,25.19515,-80.345916
+226,12,B-2,03.04.2020,13:02:00,13:35:00,1980.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.064,N,T2,25.19515,-80.345916
+356,12,B-1,03.04.2020,13:05:00,13:35:00,1800.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.040,N,T2,25.1820931,-80.3631938
+83,12,A-4,03.04.2020,13:36:00,14:11:00,2100.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.059,N,T2,29.66200224,-82.347313
+308,12,B-1,03.04.2020,13:38:00,14:45:00,4020.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.088,N,T2,24.96424,-80.5673321
+375,12,B-2,03.04.2020,13:39:00,14:11:00,1920.0,F,Lake Wales,Polk,Polk Ave,K.elegans,N,,,0.078,Y,T2,27.8967403,-81.5804654
+301,12,A-3,03.04.2020,14:12:00,14:45:00,1980.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.049,N,T2,24.9735748,-80.5539224
+416,12,A-4,03.04.2020,14:13:00,14:45:00,1920.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.045,N,T2,25.1820931,-80.3631938
+307,12,B-2,03.04.2020,14:14:00,14:50:00,2160.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.041,N,T2,24.96424,-80.5673321
+33,12,A-1,03.04.2020,14:46:00,15:49:00,3780.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,C,,0.045,N,T2,25.2565615,-80.3108042
+444,12,A-3,03.04.2020,14:47:00,15:22:00,2100.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,B,,0.033,N,T2,25.2565615,-80.3108042
+205,12,A-4,03.04.2020,14:48:00,15:22:00,2040.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.039,N,T2,24.9735748,-80.5539224
+2,12,B-1,03.04.2020,14:49:00,19:59:08,18608.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,C,,0.038,N,T2,24.9735748,-80.5539224
+309,12,B-2,03.04.2020,14:50:00,22:04:33,26073.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.033,N,T2,24.96424,-80.5673321
+312,12,A-3,03.04.2020,15:23:00,15:56:00,1980.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,B,,0.031,N,T2,25.1000151,-80.437522
+91,12,A-4,03.04.2020,15:24:00,15:56:00,1920.0,F,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,N,,,0.082,Y,T2,25.286747,-80.290592
+142,12,A-1,03.04.2020,15:57:00,16:29:00,1920.0,F,North Key Largo,North Key Largo,MM165,C. corindum,Y,B,,0.099,N,T2,25.2275238,-80.3283788
+131,12,A-3,03.04.2020,15:58:00,18:46:49,10129.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,BC,,0.036,N,T2,25.2734885,-80.3040957
+129,12,A-4,03.04.2020,15:59:00,16:29:00,1800.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,B,,0.038,N,T2,25.2565615,-80.3108042
+424,13,A-1,03.05.2020,8:34:00,09:09:00,2100.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.090,Y,T2,25.19515,-80.345916
+355,13,A-2,03.05.2020,8:35:00,09:09:00,2040.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.034,N,T2,25.1820931,-80.3631938
+204,13,A-3,03.05.2020,8:36:00,10:40:00,7440.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,BC,,0.037,N,T2,24.9735748,-80.5539224
+15,13,A-4,03.05.2020,8:37:00,09:09:00,1920.0,M,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.046,N,T2,25.1284578,-80.4080913
+27,13,B-1,03.05.2020,8:38:00,09:09:00,1860.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.088,Y,T2,25.19515,-80.345916
+310,13,B-2,03.05.2020,8:39:00,09:09:00,1800.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.044,N,T2,24.96424,-80.5673321
+315,13,A-1,03.05.2020,9:11:00,09:46:00,2100.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,B,,0.035,N,T2,25.1000151,-80.437522
+50,13,A-2,03.05.2020,9:12:00,09:46:00,2040.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.049,N,T2,25.491362,-80.485821
+425,13,A-4,03.05.2020,9:13:00,09:46:00,1980.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.042,N,T2,25.19515,-80.345916
+183,13,B-1,03.05.2020,9:14:00,15:58:00,24240.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,C,,0.039,N,T2,28.7963435,-81.8778849
+392,13,B-2,03.05.2020,9:15:00,09:46:00,1860.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.037,N,T2,24.96424,-80.5673321
+43,13,B-3,03.05.2020,9:16:00,09:46:00,1800.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.067,Y,T2,25.491362,-80.485821
+22,13,A-1,03.05.2020,9:48:00,10:22:00,2040.0,M,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.046,N,T2,25.2734885,-80.3040957
+322,13,A-2,03.05.2020,9:49:00,10:22:00,1980.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.047,M,T2,25.2734885,-80.3040957
+41,13,A-4,03.05.2020,9:50:00,10:22:00,1920.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.123,Y,T2,25.491362,-80.485821
+371,13,B-2,03.05.2020,9:51:00,10:24:00,1980.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,CB,,0.030,N,T2,27.298631,-81.36615
+345,13,B-3,03.05.2020,9:52:00,10:22:00,1800.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,,0.079,Y,T2,25.1755702,-80.36780089
+419,13,A-1,03.05.2020,10:25:00,11:00:00,2100.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.041,N,T2,25.1820931,-80.3631938
+11,13,A-2,03.05.2020,10:26:00,11:28:00,3720.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,C,,0.049,N,T2,25.1000151,-80.437522
+153,13,A-4,03.05.2020,10:27:00,11:00:00,1980.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.029,N,T2,25.491362,-80.485821
+149,13,B-2,03.05.2020,10:28:00,11:00:00,1920.0,F,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,N,,,0.090,N,T2,25.286747,-80.290592
+57,13,B-3,03.05.2020,10:29:00,11:00:00,1860.0,M,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.033,N,T2,27.298631,-81.36615
+437,13,B-4,03.05.2020,10:30:00,11:00:00,1800.0,M,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.045,N,T2,25.2734885,-80.3040957
+236,13,A-1,03.05.2020,11:01:00,11:38:00,2220.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,B,,0.042,N,T2,25.1755702,-80.36780089
+400,13,A-3,03.05.2020,11:02:00,11:38:00,2160.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.045,N,T2,25.1000151,-80.437522
+154,13,A-4,03.05.2020,11:03:00,11:38:00,2100.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.029,N,T2,25.491362,-80.485821
+90,13,B-2,03.05.2020,11:05:00,15:45:00,16800.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,BC,,0.039,N,T2,29.66200224,-82.347313
+217,13,B-3,03.05.2020,11:06:00,11:38:00,1920.0,F,Key Largo,Key Largo,JP,C. corindum,N,,,0.098,Y,T2,25.1284578,-80.4080913
+326,13,B-4,03.05.2020,11:07:00,11:38:00,1860.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.122,Y,T2,25.2734885,-80.3040957
+4,13,A-1,03.05.2020,12:49:00,13:25:00,2160.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.044,N,T2,24.9735748,-80.5539224
+358,13,A-2,03.05.2020,12:50:00,13:25:00,2100.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.029,N,T2,25.1820931,-80.3631938
+140,13,A-3,03.05.2020,12:51:00,22:05:20,33260.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,BC,,0.100,Y,T2,25.1755702,-80.36780089
+52,13,A-4,03.05.2020,12:52:00,13:25:00,1980.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,B,,0.039,N,T2,27.298631,-81.36615
+329,13,B-3,03.05.2020,12:53:00,13:25:00,1920.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.085,Y,T2,25.2734885,-80.3040957
+394,13,B-4,03.05.2020,12:54:00,13:25:00,1860.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.032,N,T2,24.96424,-80.5673321
+100,13,A-2,03.05.2020,13:28:00,16:08:00,9600.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,C,,0.047,N,T2,25.2275238,-80.3283788
+28,13,A-4,03.05.2020,13:29:00,14:05:00,2160.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,B,,0.035,N,T2,25.19515,-80.345916
+359,13,A-1,03.05.2020,13:29:00,14:05:00,2160.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.031,N,T2,25.1820931,-80.3631938
+350,13,B-3,03.05.2020,13:32:00,16:12:00,9600.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,BC,,0.038,N,T2,25.2275238,-80.3283788
+19,13,B-4,03.05.2020,13:33:00,15:33:00,7200.0,F,Key Largo,Key Largo,JP,C. corindum,Y,BC,,0.045,N,T2,25.1284578,-80.4080913
+111,13,A-1,03.05.2020,14:07:00,14:40:00,1980.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.085,Y,T2,25.1000151,-80.437522
+352,13,A-4,03.05.2020,14:08:00,14:40:00,1920.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.033,N,T2,25.1820931,-80.3631938
+143,13,A-1,03.05.2020,14:41:00,20:01:01,19201.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,C,,0.035,N,T2,25.2275238,-80.3283788
+30,13,A-4,03.05.2020,14:42:00,15:01:00,1140.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.112,Y,T2,25.19515,-80.345916
+164,13,A-4,03.05.2020,15:13:00,18:18:32,11132.0,F,Lake Placid,Highlands,110N Main,K.elegans,Y,BC,,0.069,Y,T2,27.298631,-81.36615
+99,13,B-4,03.05.2020,15:44:00,16:17:00,1980.0,M,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.038,N,T2,25.2275238,-80.3283788
+137,13,B-2,03.05.2020,15:45:00,16:17:00,1920.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,C,,0.050,N,T2,25.1755702,-80.36780089
+382,13,A-2,03.05.2020,16:18:00,17:09:00,3060.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.037,N,T2,24.96424,-80.5673321
+229,13,B-1,03.05.2020,16:19:00,17:09:00,3000.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.099,Y,T2,25.19515,-80.345916
+112,13,B-2,03.05.2020,16:20:00,17:09:00,2940.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.083,Y,T2,25.1000151,-80.437522
+327,13,B-3,03.05.2020,16:21:00,17:09:00,2880.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.080,Y,T2,25.2734885,-80.3040957
+21,13,B-4,03.05.2020,16:22:00,17:09:00,2820.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.044,N,T2,25.2734885,-80.3040957
+409,14,A-1,03.06.2020,8:50:00,11:40:00,10200.0,M,Key Largo,Key Largo,JP,C. corindum,Y,BC,,0.040,N,T2,25.1284578,-80.4080913
+410,14,A-2,03.06.2020,8:51:00,09:25:00,2040.0,M,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.053,N,T2,25.1284578,-80.4080913
+35,14,A-3,03.06.2020,8:52:00,09:25:00,1980.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,B,,0.050,N,T2,25.2565615,-80.3108042
+413,14,A-4,03.06.2020,8:53:00,09:25:00,1920.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.056,N,T2,25.1820931,-80.3631938
+439,14,B-1,03.06.2020,8:53:00,20:24:10,41470.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,BUG: flying in place throughout the reording; flying in place next day too,0.040,N,T2,25.2734885,-80.3040957
+56,14,B-2,03.06.2020,8:54:00,16:21:00,26820.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.049,N,T2,27.298631,-81.36615
+304,14,B-3,03.06.2020,8:54:00,09:25:00,1860.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.042,N,T2,24.9735748,-80.5539224
+240,14,B-4,03.06.2020,8:55:00,14:30:00,20100.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,C,,0.056,N,T2,25.1755702,-80.36780089
+403,14,A-2,03.06.2020,9:27:00,19:44:17,37037.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.056,N,T2,24.96424,-80.5673321
+202,14,A-3,03.06.2020,9:28:00,10:00:00,1920.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.053,N,T2,24.9735748,-80.5539224
+237,14,A-4,03.06.2020,9:29:00,10:00:00,1860.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,,0.079,Y,T2,25.1755702,-80.36780089
+161,14,B-3,03.06.2020,9:30:00,10:00:00,1800.0,F,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.088,Y,T2,27.298631,-81.36615
+438,14,A-3,03.06.2020,10:01:00,11:40:00,5940.0,F,North Key Largo,North Key Largo,DD front,C. corindum,Y,BC,,0.072,Y,T2,25.2734885,-80.3040957
+411,14,A-4,03.06.2020,10:02:00,10:35:00,1980.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.048,N,T2,25.1820931,-80.3631938
+224,14,B-3,03.06.2020,10:03:00,10:35:00,1920.0,M,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.059,N,T2,25.2734885,-80.3040957
+306,14,A-4,03.06.2020,10:37:00,11:09:00,1920.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.052,N,T2,24.96424,-80.5673321
+151,14,B-3,03.06.2020,10:38:00,10:50:00,720.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,C,,0.081,Y,T2,25.491362,-80.485821
+242,14,A-4,03.06.2020,11:09:00,12:38:00,5340.0,M,North Key Largo,North Key Largo,MM165,C. corindum,Y,C,,0.046,N,T2,25.2275238,-80.3283788
+97,14,A-1,03.06.2020,11:42:00,12:15:00,1980.0,F,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.130,Y,T2,25.2275238,-80.3283788
+223,14,A-3,03.06.2020,11:43:00,22:35:37,39157.0,F,North Key Largo,North Key Largo,DD front,C. corindum,Y,BC,,0.044,N,T2,25.2734885,-80.3040957
+318,14,A-1,03.06.2020,12:16:00,12:48:00,1920.0,F,Key Largo,Key Largo,JP,C. corindum,N,,,0.062,Y,T2,25.1284578,-80.4080913
+208,14,A-1,03.06.2020,12:51:00,13:23:00,1920.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.041,N,T2,24.96424,-80.5673321
+384,14,A-4,03.06.2020,12:52:00,13:23:00,1860.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.033,N,T2,24.96424,-80.5673321
+38,14,A-1,03.06.2020,13:25:00,20:14:20,24560.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,C,,0.042,N,T2,25.1755702,-80.36780089
+227,14,A-4,03.06.2020,13:26:00,13:56:00,1800.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.112,Y,T2,25.19515,-80.345916
+159,14,A-4,03.06.2020,13:58:00,20:51:00,24780.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.036,N,T2,25.491362,-80.485821
+216,14,B-4,03.06.2020,14:30:00,15:01:00,1860.0,M,Key Largo,Key Largo,JP,C. corindum,N,,,0.046,N,T2,25.1284578,-80.4080913
+385,14,B-4,03.06.2020,15:01:00,22:01:59,25259.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,Y,BC,,0.065,Y,T2,24.96424,-80.5673321
+253,15,A-1,03.09.2020,8:38:00,09:14:00,2160.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.084,Y,T2,25.491362,-80.485821
+5,15,A-2,03.09.2020,8:39:00,09:14:00,2100.0,F,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.100,Y,T2,24.9735748,-80.5539224
+390,15,A-3,03.09.2020,8:39:00,09:14:00,2100.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.065,Y,T2,24.96424,-80.5673321
+231,15,A-4,03.09.2020,8:40:00,09:14:00,2040.0,M,North Key Largo,North Key Largo,Carysfort,C. corindum,Y,B,,0.039,N,T2,25.2565615,-80.3108042
+130,15,B-1,03.09.2020,8:41:00,09:14:00,1980.0,F,North Key Largo,North Key Largo,Carysfort,C. corindum,N,,,0.054,Y,T2,25.2565615,-80.3108042
+268,15,B-2,03.09.2020,8:41:00,15:51:00,25800.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.036,N,T2,27.298631,-81.36615
+17,15,B-3,03.09.2020,8:42:00,09:14:00,1920.0,M,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.041,N,T2,25.1284578,-80.4080913
+20,15,B-4,03.09.2020,8:42:00,09:14:00,1920.0,F,Key Largo,Key Largo,JP,C. corindum,N,,,0.105,Y,T2,25.1284578,-80.4080913
+347,15,A-1,03.09.2020,9:17:00,09:53:00,2160.0,M,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.056,N,T2,25.2275238,-80.3283788
+269,15,A-2,03.09.2020,9:18:00,09:53:00,2100.0,F,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.080,Y,T2,27.298631,-81.36615
+431,15,A-3,03.09.2020,9:19:00,09:53:00,2040.0,M,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.039,N,T2,25.2734885,-80.3040957
+228,15,A-4,03.09.2020,9:20:00,10:31:00,4260.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,BC,,0.041,N,T2,25.19515,-80.345916
+25,15,B-1,03.09.2020,9:21:00,10:36:00,4500.0,F,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.059,N,T2,25.2734885,-80.3040957
+49,15,B-3,03.09.2020,9:22:00,09:53:00,1860.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.051,N,T2,25.491362,-80.485821
+87,15,B-4,03.09.2020,9:23:00,09:53:00,1800.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.037,N,T2,29.66200224,-82.347313
+395,15,A-1,03.09.2020,9:53:00,10:30:00,2220.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.045,N,T2,25.1000151,-80.437522
+428,15,A-2,03.09.2020,9:54:00,10:30:00,2160.0,F,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,,0.060,Y,T2,25.19515,-80.345916
+261,15,A-3,03.09.2020,9:55:00,10:35:00,2400.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.042,N,T2,27.298631,-81.36615
+319,15,B-3,03.09.2020,9:58:00,10:30:00,1920.0,F,Key Largo,Key Largo,JP,C. corindum,Y,CB,,0.065,Y,T2,25.1284578,-80.4080913
+9,15,B-4,03.09.2020,9:59:00,10:30:00,1860.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.049,N,T2,24.96424,-80.5673321
+211,15,A-1,03.09.2020,10:32:00,11:09:00,2220.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.073,Y,T2,25.1000151,-80.437522
+139,15,A-2,03.09.2020,10:33:00,11:09:00,2160.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,B,,0.035,N,T2,25.1755702,-80.36780089
+418,15,A-4,03.09.2020,10:34:00,11:09:00,2100.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.043,N,T2,25.1820931,-80.3631938
+344,15,A-3,03.09.2020,10:35:00,11:09:00,2040.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,BUG: times where fly in place ,0.033,N,T2,25.1755702,-80.36780089
+7,15,B-1,03.09.2020,10:37:00,22:03:40,41200.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.105,Y,T2,24.96424,-80.5673321
+147,15,B-3,03.09.2020,10:38:00,21:27:59,38999.0,F,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,Y,C,,0.052,Y,T2,25.286747,-80.290592
+118,15,B-4,03.09.2020,10:39:00,11:09:00,1800.0,M,Key Largo,Key Largo,JP,C. corindum,N,,,0.039,N,T2,25.1284578,-80.4080913
+434,15,A-1,03.09.2020,11:11:00,11:46:00,2100.0,,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.032,N,T2,25.2734885,-80.3040957
+313,15,A-2,03.09.2020,11:12:00,11:46:00,2040.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.032,N,T2,25.1000151,-80.437522
+406,15,A-3,03.09.2020,11:13:00,20:12:35,32375.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,BC,,0.035,N,T2,25.1000151,-80.437522
+146,15,A-4,03.09.2020,11:14:00,11:46:00,1920.0,F,North Key Largo,North Key Largo,Dynamite Docks,C. corindum,N,,,0.027,N,T2,25.286747,-80.290592
+391,15,B-4,03.09.2020,11:15:00,11:46:00,1860.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.055,N,T2,24.96424,-80.5673321
+335,15,A-1,03.09.2020,11:48:00,12:23:00,2100.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,N,,BUG: paint on antennae - will never fly,0.038,N,T2,25.19515,-80.345916
+120,15,A-2,03.09.2020,11:49:00,12:23:00,2040.0,M,Key Largo,Key Largo,JP,C. corindum,N,,,0.032,N,T2,25.1284578,-80.4080913
+354,15,A-4,03.09.2020,11:50:00,12:23:00,1980.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.031,N,T2,25.1820931,-80.3631938
+200,15,B-4,03.09.2020,11:51:00,13:12:00,4860.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,Y,C,,0.035,N,T2,29.66200224,-82.347313
+311,15,A-1,03.09.2020,12:23:00,12:58:00,2100.0,M,Key Largo,Key Largo,KLMRL,C. corindum,Y,B,,0.035,N,T2,25.1000151,-80.437522
+214,15,A-2,03.09.2020,12:24:00,13:32:00,4080.0,F,Key Largo,Key Largo,KLMRL,C. corindum,Y,C,,0.067,Y,T2,25.1000151,-80.437522
+184,15,A-4,03.09.2020,12:25:00,12:58:00,1980.0,M,Leesburg,Lake,Mount & 8th,K.elegans,N,,,0.029,N,T2,28.7963435,-81.8778849
+31,15,A-1,03.09.2020,12:59:00,13:32:00,1980.0,F,North Key Largo,North Key Largo,Carysfort,C. corindum,N,,,0.075,Y,T2,25.2565615,-80.3108042
+213,15,A-4,03.09.2020,13:00:00,13:32:00,1920.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.044,N,T2,25.1000151,-80.437522
+397,15,A-1,03.09.2020,13:34:00,14:07:00,1980.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.041,N,T2,25.1000151,-80.437522
+221,15,A-2,03.09.2020,13:35:00,14:07:00,1920.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.088,Y,T2,25.2734885,-80.3040957
+222,15,A-4,03.09.2020,13:35:00,14:07:00,1920.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.128,Y,T2,25.2734885,-80.3040957
+323,15,B-4,03.09.2020,13:36:00,14:41:00,3900.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.037,N,T2,25.2734885,-80.3040957
+110,15,A-1,03.09.2020,14:07:00,14:41:00,2040.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.031,N,T2,24.96424,-80.5673321
+432,15,A-2,03.09.2020,14:08:00,14:43:00,2100.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.038,N,T2,25.2734885,-80.3040957
+330,15,A-4,03.09.2020,14:09:00,14:41:00,1920.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.094,Y,T2,25.2734885,-80.3040957
+248,15,A-1,03.09.2020,14:43:00,15:16:00,1980.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.048,N,T2,25.1820931,-80.3631938
+124,15,A-2,03.09.2020,14:44:00,17:18:30,9270.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,BC,,0.042,N,T2,25.1820931,-80.3631938
+339,15,A-4,03.09.2020,14:45:00,15:16:00,1860.0,F,North Key Largo,North Key Largo,Carysfort,C. corindum,N,,,0.092,Y,T2,25.2565615,-80.3108042
+24,15,B-4,03.09.2020,14:46:00,15:16:00,1800.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,B,,0.037,N,T2,25.2734885,-80.3040957
+135,15,A-1,03.09.2020,15:18:00,15:52:00,2040.0,F,North Key Largo,North Key Largo,DD front,C. corindum,N,,,0.103,Y,T2,25.2734885,-80.3040957
+388,15,A-4,03.09.2020,15:19:00,15:52:00,1980.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,B,,0.049,N,T2,24.96424,-80.5673321
+101,15,B-4,03.09.2020,15:20:00,15:52:00,1920.0,F,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.064,Y,T2,24.9735748,-80.5539224
+293,15,A-1,03.09.2020,15:54:00,16:28:00,2040.0,M,Gainesville,Alachua,23rd & 8th,K.elegans,N,,,0.040,N,T2,29.66200224,-82.347313
+259,15,A-4,03.09.2020,15:55:00,16:28:00,1980.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.029,N,T2,25.491362,-80.485821
+249,15,B-2,03.09.2020,15:56:00,16:28:00,1920.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.039,N,T2,25.1820931,-80.3631938
+63,15,B-4,03.09.2020,15:57:00,16:28:00,1860.0,F,Lake Wales,Polk,Polk Ave,K.elegans,N,,,0.087,Y,T2,27.8967403,-81.5804654
+212,15,A-1,03.09.2020,16:29:00,17:02:00,1980.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.037,N,T2,25.1000151,-80.437522
+104,15,A-4,03.09.2020,16:30:00,17:02:00,1920.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.056,N,T2,24.9735748,-80.5539224
+188,15,B-2,03.09.2020,16:31:00,17:02:00,1860.0,F,Leesburg,Lake,Mount & 8th,K.elegans,N,,,0.052,Y,T2,28.7963435,-81.8778849
+360,15,B-4,03.09.2020,16:32:00,17:02:00,1800.0,F,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.108,Y,T2,25.1820931,-80.3631938
+1,16,A-1,03.10.2020,8:02:00,08:36:00,2040.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,B,,0.039,N,T2,24.9735748,-80.5539224
+3,16,A-2,03.10.2020,8:03:00,08:36:00,1980.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,Y,B,,0.046,N,T2,24.9735748,-80.5539224
+245,16,A-3,03.10.2020,8:04:00,08:36:00,1920.0,M,North Key Largo,North Key Largo,MM165,C. corindum,N,,,0.034,N,T2,25.2275238,-80.3283788
+206,16,A-4,03.10.2020,8:04:00,08:36:00,1920.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.033,N,T2,24.96424,-80.5673321
+393,16,B-1,03.10.2020,8:05:00,08:36:00,1860.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.096,Y,T2,24.96424,-80.5673321
+169,16,B-2,03.10.2020,8:05:00,11:13:00,11280.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,C,,0.044,N,T2,27.298631,-81.36615
+267,16,B-3,03.10.2020,8:06:00,08:36:00,1800.0,M,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.037,N,T2,27.298631,-81.36615
+343,16,B-4,03.10.2020,8:06:00,08:36:00,1800.0,M,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,Y,CB,,0.041,N,T2,25.1755702,-80.36780089
+71,16,A-1,03.10.2020,8:38:00,09:58:00,4800.0,M,Leesburg,Lake,Mount & 8th,K.elegans,Y,C,,0.031,N,T2,28.7963435,-81.8778849
+426,16,A-2,03.10.2020,8:39:00,11:37:00,10680.0,M,North Key Largo,North Key Largo,Charlemagne,C. corindum,Y,BC,,0.033,N,T2,25.19515,-80.345916
+324,16,A-3,03.10.2020,8:40:00,22:02:52,48172.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.038,N,T2,25.2734885,-80.3040957
+59,16,A-4,03.10.2020,8:41:00,09:14:00,1980.0,F,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.075,Y,T2,27.298631,-81.36615
+10,16,B-1,03.10.2020,8:42:00,11:13:00,9060.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.051,N,T2,24.96424,-80.5673321
+225,16,B-3,03.10.2020,8:43:00,11:13:00,9000.0,M,North Key Largo,North Key Largo,DD front,C. corindum,Y,C,,0.033,N,T2,25.2734885,-80.3040957
+119,16,B-4,03.10.2020,8:44:00,09:14:00,1800.0,F,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.047,N,T2,25.1284578,-80.4080913
+156,16,A-4,03.10.2020,9:15:00,09:47:00,1920.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.068,Y,T2,25.491362,-80.485821
+53,16,B-4,03.10.2020,9:16:00,11:37:00,8460.0,F,Lake Placid,Highlands,110N Main,K.elegans,Y,BC,,0.067,N,T2,27.298631,-81.36615
+48,16,A-4,03.10.2020,9:48:00,10:18:00,1800.0,F,Homestead,Miami-Dade,SW 296th St,K.elegans,N,,,0.048,Y,T2,25.491362,-80.485821
+250,16,A-1,03.10.2020,10:18:00,10:49:00,1860.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.041,N,T2,25.1820931,-80.3631938
+246,16,A-4,03.10.2020,10:19:00,10:49:00,1800.0,F,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.137,Y,T2,25.1820931,-80.3631938
+54,16,A-1,03.10.2020,10:50:00,11:21:00,1860.0,F,Lake Placid,Highlands,110N Main,K.elegans,N,,,0.072,Y,T2,27.298631,-81.36615
+210,16,A-4,03.10.2020,10:51:00,11:40:00,2940.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.054,N,T2,24.96424,-80.5673321
+401,16,A-1,03.10.2020,11:21:00,11:56:00,2100.0,F,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.097,Y,T2,24.96424,-80.5673321
+314,16,B-1,03.10.2020,11:22:00,11:56:00,2040.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.082,Y,T2,25.1000151,-80.437522
+170,16,B-2,03.10.2020,11:25:00,11:56:00,1860.0,M,Lake Placid,Highlands,110N Main,K.elegans,Y,B,,0.046,N,T2,27.298631,-81.36615
+108,16,B-3,03.10.2020,11:26:00,11:56:00,1800.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,N,,,0.051,N,T2,24.96424,-80.5673321
+353,16,A-1,03.10.2020,11:57:00,19:59:11,28931.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,C,,0.038,N,T2,25.1820931,-80.3631938
+203,16,A-2,03.10.2020,11:58:00,12:33:00,2100.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.047,N,T2,24.9735748,-80.5539224
+218,16,A-4,03.10.2020,11:59:00,15:28:00,12540.0,M,Key Largo,Key Largo,JP,C. corindum,Y,C,,0.048,N,T2,25.1284578,-80.4080913
+247,16,B-1,03.10.2020,12:00:00,12:33:00,1980.0,M,North Key Largo,North Key Largo,N. Dagny,C. corindum,Y,B,,0.034,N,T2,25.1820931,-80.3631938
+258,16,B-2,03.10.2020,12:01:00,12:33:00,1920.0,M,Homestead,Miami-Dade,SW 296th St,K.elegans,Y,B,,0.030,N,T2,25.491362,-80.485821
+342,16,B-3,03.10.2020,12:02:00,12:33:00,1860.0,F,North Key Largo,North Key Largo,Dagny Trellis,C. corindum,N,,,0.098,Y,T2,25.1755702,-80.36780089
+116,16,B-4,03.10.2020,12:03:00,12:33:00,1800.0,F,Key Largo,Key Largo,JP,C. corindum,Y,B,,0.085,Y,T2,25.1284578,-80.4080913
+14,16,A-2,03.10.2020,13:06:00,13:40:00,2040.0,M,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.029,N,T2,25.1000151,-80.437522
+6,16,B-1,03.10.2020,13:07:00,23:29:29,37349.0,M,Plantation Key,Plantation Key,Founder's,C. corindum,Y,C,,0.043,N,T2,24.96424,-80.5673321
+201,16,B-2,03.10.2020,13:08:00,13:40:00,1920.0,M,Plantation Key,Plantation Key,Aregood Ln,C. corindum,N,,,0.043,N,T2,24.9735748,-80.5539224
+115,16,B-3,03.10.2020,13:09:00,13:40:00,1860.0,F,Key Largo,Key Largo,KLMRL,C. corindum,N,,,0.083,Y,T2,25.1000151,-80.437522
+420,16,B-4,03.10.2020,13:10:00,13:40:00,1800.0,F,North Key Largo,North Key Largo,N. Dagny,C. corindum,N,,,0.062,Y,T2,25.1820931,-80.3631938

@@ -1,0 +1,532 @@
+ID,sex,population,site,host_plant,short-wing?,latitude,longitude,field_date_collected
+1,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+2,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+3,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+4,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+5,F,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+6,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+7,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+8,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+9,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+10,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+11,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+12,F,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+13,F,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+14,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+15,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+16,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+17,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+18,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+19,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+20,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+21,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+22,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+23,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+24,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+25,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+26,F,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+27,F,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+28,M,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+29,F,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+30,F,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+31,F,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+32,F,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+33,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+34,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+35,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+36,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+37,F,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+38,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+39,F,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+40,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+41,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+42,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+43,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+44,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+45,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+46,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+47,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+48,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+49,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+50,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+51,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+52,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+53,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+54,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+55,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+56,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+57,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+58,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+59,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+60,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+61,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+62,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+63,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+64,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+65,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+66,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+67,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+68,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+69,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+70,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+71,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+72,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+73,F,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+74,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+75,F,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+76,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+77,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+78,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+79,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+80,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+81,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+82,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+83,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+84,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+85,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+86,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+87,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+88,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+89,F,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+90,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+91,F,North Key Largo,Dynamite Docks,C. corindum,N,25.286747,-80.290592,2.3.2020
+92,F,North Key Largo,Dynamite Docks,C. corindum,N,25.286747,-80.290592,2.3.2020
+93,F,North Key Largo,Dynamite Docks,C. corindum,N,25.286747,-80.290592,2.3.2020
+94,M,North Key Largo,Dynamite Docks,C. corindum,N,25.286747,-80.290592,2.3.2020
+95,M,North Key Largo,Dynamite Docks,C. corindum,N,25.286747,-80.290592,2.3.2020
+96,F,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+97,F,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+98,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+99,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+100,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+101,F,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+102,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+103,F,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+104,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+105,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+106,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+107,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+108,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+109,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+110,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+111,F,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+112,F,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+113,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+114,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+115,F,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+116,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+117,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+118,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+119,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+120,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+121,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+122,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+123,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+124,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+125,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+126,F,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+127,F,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+128,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+129,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+130,F,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+131,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+132,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+133,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+134,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+135,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+136,F,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+137,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+138,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+139,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+140,F,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+141,F,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+142,F,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+143,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+144,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+145,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+146,F,North Key Largo,Dynamite Docks,C. corindum,N,25.286747,-80.290592,2.3.2020
+147,F,North Key Largo,Dynamite Docks,C. corindum,N,25.286747,-80.290592,2.3.2020
+148,F,North Key Largo,Dynamite Docks,C. corindum,N,25.286747,-80.290592,2.3.2020
+149,F,North Key Largo,Dynamite Docks,C. corindum,N,25.286747,-80.290592,2.3.2020
+150,M,North Key Largo,Dynamite Docks,C. corindum,N,25.286747,-80.290592,2.3.2020
+151,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+152,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+153,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+154,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+155,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+156,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+157,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+158,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+159,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+160,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+161,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+162,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+163,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+164,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+165,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+166,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+167,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+168,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+169,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+170,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+171,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+172,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+173,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+174,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+175,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+176,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+177,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+178,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+179,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+180,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+181,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+182,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+183,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+184,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+185,F,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+186,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+187,F,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+188,F,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+189,F,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+190,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+191,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+192,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+193,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+194,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+195,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+196,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+197,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+198,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+199,F,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+200,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+201,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+202,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+203,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+204,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+205,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+206,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+207,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+208,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+209,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+210,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+211,F,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+212,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+213,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+214,F,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+215,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+216,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+217,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+218,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+219,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+220,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+221,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+222,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+223,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+224,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+225,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+226,F,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+227,F,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+228,M,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+229,F,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+230,M,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+231,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+232,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+233,F,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+234,F,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+235,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+236,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+237,F,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+238,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+239,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+240,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+241,F,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+242,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+243,F,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+244,F,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+245,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+246,F,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+247,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+248,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+249,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+250,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+251,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+252,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+253,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+254,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+255,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+256,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+257,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+258,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+259,M,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+260,F,Homestead,SW 296th St,K.elegans,N,25.491362,-80.485821,2.7.2020
+261,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+262,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+263,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+264,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+265,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+266,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+267,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+268,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+269,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+270,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+271,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+272,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+273,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+274,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+275,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+276,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+277,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+278,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+279,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+280,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+281,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+282,M,Leesburg,Mount & 8th,K.elegans,N,28.7963435,-81.8778849,2.7.2020
+291,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+292,F,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+293,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+294,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+295,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+296,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+297,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+298,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+299,F,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+300,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+301,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+302,F,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+303,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+304,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+305,M,Plantation Key,Aregood Ln,C. corindum,N,24.9735748,-80.5539224,2.4.2020
+306,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+307,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+308,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+309,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+310,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+311,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+312,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+313,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+314,F,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+315,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+316,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+317,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+318,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+319,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+320,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+321,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+322,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+323,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+324,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+325,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+326,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+327,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+328,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+329,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+330,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+331,M,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+332,M,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+333,M,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+334,F,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+335,M,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+336,F,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+337,F,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+338,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+339,F,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+340,F,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+341,F,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+342,F,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+343,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+344,M,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+345,F,North Key Largo,Dagny Trellis,C. corindum,N,25.1755702,-80.36780089,2.5.2020
+346,F,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+347,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+348,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+349,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+350,M,North Key Largo,MM165,C. corindum,N,25.2275238,-80.3283788,2.4.2020
+351,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+352,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+353,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+354,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+355,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+356,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+357,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+358,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+359,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+360,F,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+371,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+372,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+373,M,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+374,F,Lake Placid,110N Main,K.elegans,N,27.298631,-81.36615,2.7.2020
+375,F,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+376,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+377,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+378,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+379,M,Lake Wales,Polk Ave,K.elegans,N,27.8967403,-81.5804654,2.7.2020
+380,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+381,M,Gainesville,23rd & 8th,K.elegans,N,29.66200224,-82.347313,2.9.2020
+382,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+383,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+384,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+385,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+386,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+387,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+388,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+389,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+390,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+391,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+392,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+393,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+394,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+395,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+396,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+397,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+398,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+399,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+400,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+401,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+402,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+403,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+404,M,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+405,F,Plantation Key,Founder's,C. corindum,N,24.96424,-80.5673321,2.4.2020
+406,M,Key Largo,KLMRL,C. corindum,N,25.1000151,-80.437522,2.5.2020
+407,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+408,F,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+409,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+410,M,Key Largo,JP,C. corindum,N,25.1284578,-80.4080913,2.5.2020
+411,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+412,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+413,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+414,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+415,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+416,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+417,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+418,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+419,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+420,F,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+421,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+422,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+423,M,North Key Largo,N. Dagny,C. corindum,N,25.1820931,-80.3631938,2.5.2020
+424,F,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+425,M,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+426,M,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+427,M,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+428,F,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+429,F,North Key Largo,Charlemagne,C. corindum,N,25.19515,-80.345916,2.5.2020
+430,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+431,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+432,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+433,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+434,,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+435,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+436,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+437,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+438,F,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+439,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+440,M,North Key Largo,DD front,C. corindum,N,25.2734885,-80.3040957,2.3.2020
+441,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+442,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+443,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+444,M,North Key Largo,Carysfort,C. corindum,N,25.2565615,-80.3108042,2.4.2020
+450,F,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+451,F,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+452,M,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+453,M,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+454,F,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+455,F,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+456,M,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+457,F,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+458,F,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+459,F,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+460,M,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+461,M,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+462,F,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+463,M,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+464,F,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+465,F,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+466,M,North Key Largo,Dagny Trellis,C. corindum,Y,25.1755702,-80.36780089,2.5.2020
+467,M,North Key Largo,Dynamite Docks,C. corindum,Y,25.286747,-80.290592,2.3.2020
+468,F,North Key Largo,Dynamite Docks,C. corindum,Y,25.286747,-80.290592,2.3.2020
+469,M,North Key Largo,Dynamite Docks,C. corindum,Y,25.286747,-80.290592,2.3.2020
+470,F,North Key Largo,DD front,C. corindum,Y,25.2734885,-80.3040957,2.3.2020
+471,F,North Key Largo,Carysfort,C. corindum,Y,25.2565615,-80.3108042,2.4.2020
+472,F,North Key Largo,Carysfort,C. corindum,Y,25.2565615,-80.3108042,2.4.2020
+473,F,North Key Largo,Carysfort,C. corindum,Y,25.2565615,-80.3108042,2.4.2020
+474,M,North Key Largo,Carysfort,C. corindum,Y,25.2565615,-80.3108042,2.4.2020
+475,M,North Key Largo,Carysfort,C. corindum,Y,25.2565615,-80.3108042,2.4.2020
+476,M,North Key Largo,Carysfort,C. corindum,Y,25.2565615,-80.3108042,2.4.2020
+477,F,North Key Largo,Carysfort,C. corindum,Y,25.2565615,-80.3108042,2.4.2020
+478,M,North Key Largo,Carysfort,C. corindum,Y,25.2565615,-80.3108042,2.4.2020
+479,F,North Key Largo,Carysfort,C. corindum,Y,25.2565615,-80.3108042,2.4.2020
+480,F,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+481,F,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+482,F,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+483,M,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+484,M,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+485,M,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+486,M,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+487,M,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+488,M,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+489,F,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+490,F,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+491,M,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+492,F,North Key Largo,Charlemagne,C. corindum,Y,25.19515,-80.345916,2.5.2020
+493,F,North Key Largo,N. Dagny,C. corindum,Y,25.1820931,-80.3631938,2.5.2020
+494,F,North Key Largo,N. Dagny,C. corindum,Y,25.1820931,-80.3631938,2.5.2020
+495,M,North Key Largo,N. Dagny,C. corindum,Y,25.1820931,-80.3631938,2.5.2020
+496,M,North Key Largo,N. Dagny,C. corindum,Y,25.1820931,-80.3631938,2.5.2020
+497,F,North Key Largo,N. Dagny,C. corindum,Y,25.1820931,-80.3631938,2.5.2020
+498,M,North Key Largo,N. Dagny,C. corindum,Y,25.1820931,-80.3631938,2.5.2020
+499,F,North Key Largo,N. Dagny,C. corindum,Y,25.1820931,-80.3631938,2.5.2020
+500,F,North Key Largo,N. Dagny,C. corindum,Y,25.1820931,-80.3631938,2.5.2020
+501,M,Homestead,SW 296th St,K.elegans,Y,25.491362,-80.485821,2.7.2020
+502,F,Homestead,SW 296th St,K.elegans,Y,25.491362,-80.485821,2.7.2020
+503,M,Homestead,SW 296th St,K.elegans,Y,25.491362,-80.485821,2.7.2020
+504,F,Homestead,SW 296th St,K.elegans,Y,25.491362,-80.485821,2.7.2020
+505,M,Homestead,SW 296th St,K.elegans,Y,25.491362,-80.485821,2.7.2020
+506,M,Homestead,SW 296th St,K.elegans,Y,25.491362,-80.485821,2.7.2020
+507,F,Homestead,SW 296th St,K.elegans,Y,25.491362,-80.485821,2.7.2020
+508,F,Key Largo,KLMRL,C. corindum,Y,25.1000151,-80.437522,2.5.2020
+509,F,Key Largo,KLMRL,C. corindum,Y,25.1000151,-80.437522,2.5.2020
+510,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+511,F,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+512,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+513,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+514,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+515,F,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+516,F,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+517,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+518,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+519,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+520,F,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+521,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+522,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+523,F,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+524,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+525,F,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+526,F,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+527,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+528,F,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+529,F,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+530,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+531,F,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+532,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+533,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+534,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+535,F,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+536,M,Key Largo,JP,C. corindum,Y,25.1284578,-80.4080913,2.5.2020
+537,M,Lake Wales,Polk Ave,K.elegans,Y,27.8967403,-81.5804654,2.7.2020
+538,F,Leesburg,Mount & 8th,K.elegans,Y,28.7963435,-81.8778849,2.7.2020
+539,F,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+540,F,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+541,M,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+542,M,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+543,F,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+544,M,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+545,F,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+546,M,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+547,M,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+548,F,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+549,F,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+550,M,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+551,M,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+552,F,Plantation Key,Founder's,C. corindum,Y,24.96424,-80.5673321,2.4.2020
+553,F,North Key Largo,N. Dagny,C. corindum,Y,25.1820931,-80.3631938,2.5.2020
+554,M,North Key Largo,N. Dagny,C. corindum,Y,25.1820931,-80.3631938,2.5.2020
