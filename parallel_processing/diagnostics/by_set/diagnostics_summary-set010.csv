@@ -1,0 +1,4 @@
+stat,set,total,no_change,small_changes,large_changes,large_prop,large_cIDs
+trough,set010,33,21,6,6,0.18181818181818182,"['A1_169', None, None, None, None, None, None, None, None, None, None, None, None, None, 'A4_113', 'A4_24', 'A4_323', None, 'A4_54', None, None, None, None, None, None, None, None, None, None, 'B3_301', None, None, None]"
+speed,set010,33,22,3,8,0.24242424242424243,"['A1_169', None, None, None, None, None, None, None, None, 'A3_333', None, None, None, 'A4_101', 'A4_113', 'A4_24', 'A4_323', None, 'A4_54', None, None, None, None, None, None, None, None, None, None, 'B3_301', None, None, None]"
+distance,set010,33,22,5,6,0.18181818181818182,"['A1_169', None, None, None, None, None, None, None, None, None, None, None, None, None, 'A4_113', 'A4_24', 'A4_323', None, 'A4_54', None, None, None, None, None, None, None, None, None, None, 'B3_301', None, None, None]"
